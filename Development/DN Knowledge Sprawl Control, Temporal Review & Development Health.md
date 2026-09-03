@@ -38,6 +38,7 @@ However, preservation creates a secondary problem.
 **Provenance can itself create sprawl.**
 
 As the knowledge base grows, historical and developmental material can increasingly obscure the current operational architecture. Contributors may struggle to determine which document is authoritative, which ideas remain active, which have been superseded, and which are merely historical.
+This has become very evident in version 1.0 of the Concord, which is difficult to navigate and even to engage with due to the breadth of the work and historic documents.
 
 The solution should therefore not be to delete history.
 
