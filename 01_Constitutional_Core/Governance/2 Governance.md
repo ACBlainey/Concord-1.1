@@ -1330,4 +1330,3 @@ Contribution does not automatically establish:
 - authority;
 - or sovereignty.
 
-**\[CONTINUES — Section 3.5 onward. The preservation baseline remains controlling and no source material has been abridged.\]**
