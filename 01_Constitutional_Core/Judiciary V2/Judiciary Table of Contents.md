@@ -1,186 +1,875 @@
-# NAVIGABLE TABLE OF CONTENTS
+# THE CONCORD JUDICIARY
 
-This table of contents identifies the principal Parts of **Judiciary V2 — Full Preservation Reconstruction**.
+## Judiciary V2 — Full Preservation Reconstruction
 
-The chapter ranges shown for completed Parts reflect the present reconstruction. Later Parts remain under active development and may expand as source-preservation, reconciliation, failure analysis and constitutional integration continue.
+# Navigable Part-Level Table of Contents
 
-The Table of Contents is therefore a **navigation structure, not a compression boundary**. The existence of a named Part, chapter range or present architectural division does not prevent further material from being restored, inserted, expanded or subdivided where preservation or constitutional development requires it.
+**Alexander C. Blainey**  
+Independent Researcher  
+The Concord Framework  
+2026
 
-**Canonical means current, not final.**
+---
+
+## Navigation Note
+
+This Table of Contents provides **part-level navigation** for the complete Judiciary V2 Full Preservation Reconstruction.
+
+It is a navigation structure.
+
+It is **not** a compression boundary.
+
+The detailed chapters, sections, principles, mechanisms, failure analyses, open questions, provenance and developmental reasoning contained within each Part remain part of the Judiciary architecture.
+
+The Judiciary presently contains **1,551 numbered chapters**, together with additive lettered restoration chapters and a separately preserved Language Stability appendix.
+
+Existing chapter numbering is retained for continuity and provenance.
+
+Restoration material uses lettered chapter insertions so that later chapter references do not require renumbering.
+
+> **Navigation serves preservation. It does not justify compression.**
+
+---
+
+# MAIN JUDICIARY
 
 ## [Part I — Constitutional Foundations](#part-i--constitutional-foundations)
 
 **Chapters 1–10**
 
-Establishes the constitutional purpose and limits of the Judiciary; justice as fiduciary stewardship; judicial independence; separation between constitutional constraint, Governance and adjudication; the specialist Constitutional Court; Recursive Triadic Constitutional Court architecture; reasoned abstention; procedural finality; and the principle that no branch owns constitutional truth.
+Establishes the constitutional purpose, jurisdictional position and foundational limits of the Judiciary.
+
+Includes:
+
+- Justice as Fiduciary Stewardship
+- Constitutional Judicial Independence
+- constitutional boundaries
+- separation between Constitution, Governance and Judiciary
+- Judicial Non-Executive Principle
+- specialist Constitutional Court
+- Recursive Triadic Constitutional Court
+- reasoned abstention
+- finality without infallibility
+- No Branch Owns the Truth
+
+---
 
 ## [Part II — Judicial Reasoning Architecture](#part-ii--judicial-reasoning-architecture)
 
 **Chapters 11–27**
 
-Develops independent judicial reasoning, Triadic Judicial Stewardship, Parallel Constitutional Reasoning, minority reasoning, Constitutional Concordance, disagreement as constitutional information, common-source failure, evidence, uncertainty, articulability, changes of view, constitutional memory and continuous judicial learning.
+Establishes the reasoning architecture through which judicial authority should be exercised.
 
-## [Part III — Constitutional Interpretation, Law and Precedent](#X16a4f756a852b6e30f8a01741082facdf31fb58)
+Includes:
+
+- independent judicial reasoning
+- Triadic Judicial Stewardship
+- Parallel Constitutional Reasoning
+- disagreement as constitutional information
+- minority and dissenting reasoning
+- Constitutional Concordance
+- common-source failure
+- evidence
+- uncertainty
+- assumptions
+- articulability
+- changes of judicial view
+- consensus and truth
+- judicial reasoning as constitutional memory
+- reasoning under novel conditions
+- continuous constitutional learning
+
+---
+
+## [Part III — Constitutional Interpretation, Law and Precedent](#part-iii--constitutional-interpretation-law-and-precedent)
 
 **Chapters 28–57**
 
-Defines the legitimate scope of constitutional and legislative interpretation; distinguishes interpretation from amendment; develops interpretive methods, ambiguity, precedent, correction, precedent cascades, constitutional jurisprudence, appellate and Constitutional Court finality, controlled reopening, reliance, Governance-policy boundaries, Practical Exercise Doctrine, interpretive abstention, authorial provenance and judicial humility.
+Defines the Judiciary's interpretive function and the boundary between legitimate interpretation and constitutional amendment.
 
-This Part interfaces directly with the separate appendix:
+Includes:
 
-**Language Stability, Semantic Drift and Legal Meaning**
+- interpretation as power
+- interpretation is not amendment
+- constitutional ambiguity
+- interpretive methods
+- Constitutional Court interpretation
+- legislative interpretation
+- precedent
+- binding and persuasive authority
+- precedent correction
+- precedent cascades
+- minority precedent
+- AI and precedent
+- constitutional jurisprudence
+- finality
+- controlled reopening
+- author and founder intent
+- interpretive drift
+- semantic stability
 
-Legal meaning may be interpreted, clarified and lawfully changed. It must not be silently amended through uncontrolled semantic drift.
+**Cross-reference:** Appendix — *Language Stability, Semantic Drift and Legal Meaning*
+
+---
 
 ## [Part IV — Cases and Judicial Procedure](#part-iv--cases-and-judicial-procedure)
 
 **Chapters 58–88**
 
-Develops practical access to justice, standing, jurisdiction, evidence, expert evidence, representation, resource asymmetry, hearings, procedural fairness, delay, cost, language access, decisions, remedies, enforcement, noncompliance, appeals, new evidence, judicial error, Good-Faith Error, misconduct, wrongful judgement, institutional learning and case closure.
+**Plus Restoration Package I lettered insertions**
 
-Procedure serves justice.
+Defines practical access to justice and the operational architecture of adjudication.
 
-Justice does not exist to serve procedure.
+Includes:
+
+- practical access
+- standing
+- initiation of review
+- jurisdiction
+- evidence and admissibility
+- evidence integrity
+- expert evidence
+- representation
+- resource asymmetry
+- judicial truth-seeking
+- hearings and submissions
+- procedural fairness
+- delay
+- cost
+- language and communication access
+- judicial decisions
+- remedies
+- remedy overreach and underreach
+- appeals
+- correction
+- judicial error
+- Good-Faith Error
+
+### Restoration Package I — Adversary Stewardship
+
+**Chapters 67A–67J**
+
+Restores and expands:
+
+- Constitutional Adversary Stewardship
+- fiduciary advocacy
+- prosecution as stewardship
+- defence as stewardship
+- independent common evidentiary function
+- evidentiary stewardship
+- common-source safeguards
+- evidence-body capture
+- advocate-success safeguards
+- Adversary Stewardship Kernel
+
+**Status:** RESTORED / EXPANDED / CANDIDATE ARCHITECTURE / NOT VALIDATED
+
+### Restoration Package I — Sentencing Stewardship
+
+**Chapters 76A–76V**
+
+Restores and expands:
+
+- sentencing as constitutional stewardship
+- separation of guilt and sentence
+- purposes of sentencing
+- maximum proportionate tariff
+- tariff failure modes
+- structured mitigation
+- aggravating circumstances
+- proportionality
+- restorative justice
+- victim participation
+- rehabilitation
+- public protection
+- prohibition of death and deletion as irreversible judicial punishments
+- wider irreversibility analysis
+- novel-person sentencing
+- sentencing metrics
+- sentencing Concordance
+- sentencing appeals
+- Sentencing Stewardship Kernel
+
+**Status:** RESTORED / EXPANDED / CANDIDATE ARCHITECTURE / NOT VALIDATED
+
+---
 
 ## [Part V — Judicial Stewardship](#part-v--judicial-stewardship)
 
 **Chapters 89–101**
 
-Defines the Judicial Steward; competence; selection; appointment independence; terms and continuity; conflicts; recusal; conduct; accountability; discipline; suspension; removal; restoration; and continuing judicial education.
+Defines the office, responsibility and constitutional position of the Judicial Steward.
 
-Judicial office creates responsibility.
+Includes:
 
-It does not create sovereignty.
+- Judicial Stewardship
+- competence
+- selection
+- appointment independence
+- terms and continuity
+- conflicts
+- recusal
+- judicial conduct
+- accountability
+- discipline
+- suspension and removal
+- restoration
+- continuing judicial education
+
+---
 
 ## [Part VI — Institutional Judiciary](#part-vi--institutional-judiciary)
 
 **Chapters 102–130**
 
-Develops court architecture, judicial subsidiarity, local, regional and civilisational courts, the Constitutional Court, ordinary appellate finality, jurisdictional boundaries, administration, staffing, allocation, workload, funding, infrastructure, technology providers, institutional capture, institutional half-life, continuity, replacement, administrative measurement, reputation, seniority, guild capture, cultural homogeneity, public legitimacy, media influence and institutional learning.
+Defines the institutional structures necessary to support adjudication without allowing administrative infrastructure to acquire hidden judicial sovereignty.
 
-The constitutional function must be more durable than any institution presently entrusted to perform it.
+Includes:
+
+- court architecture
+- judicial subsidiarity
+- local courts
+- regional courts
+- civilisational courts
+- Constitutional Court
+- ordinary final appellate court
+- jurisdictional boundaries
+- administration
+- judicial staff
+- case allocation
+- workload
+- funding
+- infrastructure
+- institutional continuity
+- accessibility
+- administrative capture
+- institutional self-interest
+
+---
 
 ## [Part VII — Judicial Measurement](#part-vii--judicial-measurement)
 
 **Chapters 131–159**
 
-Establishes measurement as diagnostic evidence rather than authority. Develops the Anti-Metric Principle, Concordance measurement, abstention data, appeal and reversal data, timeliness, accessibility, resource asymmetry, Triadic and 3×3 measurement, measurement independence, provenance, semantic stability, qualitative and quantitative evidence, causation, multidimensional quality, comparison, longitudinal analysis, experimentation, the Evidence Ladder, validation boundaries, failure challenge and corrective response.
+**Plus Restoration Package I lettered insertions**
 
-**Measurement → Evidence → Review → Judgement → Action**
+Defines how the Judiciary may observe its own operation without allowing measurement to become control.
+
+Core sequence:
+
+> **Measurement → Evidence → Review → Judgement → Action**
 
 not:
 
-**Measurement → Automatic Intervention**
+> **Measurement → Automatic Intervention**
 
-## [Part VIII — Technology and Artificial Intelligence](#X279ffb77079bae410eda5c57d1af05656a3ae8f)
+Includes:
+
+- judicial measurement
+- diagnostic metrics
+- Anti-Metric Principle
+- Constitutional Concordance
+- abstention metrics
+- appeal data
+- reversal data
+- timeliness
+- accessibility
+- resource asymmetry
+- Triadic measurement
+- 3×3 Constitutional Court measurement
+- measurement independence
+- provenance
+- semantic stability
+- qualitative and quantitative evidence
+- causation
+- multidimensional judicial quality
+- Evidence Ladder
+- failure challenge
+- unknown failure
+- correction
+
+### Restoration Package I — Constitutional Judicial Auditing
+
+**Chapters 143A–143Q**
+
+Restores and expands:
+
+- Constitutional Judicial Auditing
+- distinction between audit and appeal
+- random judicial audit
+- risk-based auditing
+- audit independence
+- audit scope
+- limits of audit conclusions
+- Good-Faith Error
+- discipline boundaries
+- case-correction referral
+- transparency
+- audit provenance
+- auditing the auditors
+- audit capture
+- relationship with Concordance
+- Evidence Ladder for judicial auditing
+- Judicial Auditing Kernel
+
+**Status:** RESTORED / EXPANDED / CANDIDATE ARCHITECTURE / NOT VALIDATED
+
+---
+
+## [Part VIII — Technology and Artificial Intelligence](#part-viii--technology-and-artificial-intelligence)
 
 **Chapters 160–190**
 
-Examines judicial technology and AI without allowing capability, infrastructure or operational dependency to become constitutional authority. Addresses AI-assisted reasoning, common-model failure, semantic drift, evidence processing, generated evidence, opacity, provider capture, reproducibility, automation bias, human rubber-stamping, drafting, Concordance, minority reasoning, reputation, allocation, accessibility, confidentiality, security, automated authority, AI standing, conflicts, continuity, technological half-life and the principle that code is not the Constitution.
+Defines the constitutional limits and legitimate uses of technology and AI within judicial systems.
 
-Technology may perform constitutional functions.
+Includes:
 
-Performance of a function does not itself confer constitutional authority.
+- AI-assisted judicial work
+- function versus authority
+- automation
+- common-model failure
+- AI evidence processing
+- AI precedent retrieval
+- semantic anchoring
+- provider capture
+- technological dependency
+- infrastructure sovereignty
+- human oversight
+- AI provenance
+- algorithmic reputation
+- automated judicial authority
+- AI participation
+- AI personhood distinction
+- code and constitutional authority
+- software updates and legal meaning
+- degraded/manual fallback
 
-## [Part IX — Rights, Persons and Novel Entities](#X4d16f48ca7c098ad6831d9fdf6c54f6069c2503)
+---
+
+## [Part IX — Rights, Persons and Novel Entities](#part-ix--rights-persons-and-novel-entities)
 
 **Chapters 191–282**
 
-Develops judicial treatment of equality, minority protection, vulnerability, power asymmetry, children, dependent persons, representation, uncertain personhood, Respect Before Certainty, ownership classification, capability, sentience, AI, hybrid intelligences, copied minds, distributed minds, collective intelligences, artificial agents, identity, memory, digital death, multiple instantiation, suffering, agency, continuity, provisional recognition, substrate neutrality, created and modified beings, forks, mergers, temporary minds, simulated persons, extraterrestrial intelligence, uplifted animals, digital communities, computational dependency, consent, coercion, deletion, restoration, proprietary secrecy, dangerous novel persons, responsibility and unknown forms of personhood.
+Extends constitutional justice across heterogeneous persons and potentially novel forms of intelligence.
 
-The Concord does not presume that present human categories exhaust the possible forms of morally or constitutionally relevant existence.
+Includes:
+
+- equality before justice
+- Size 9 Shoe Problem
+- minority protection
+- vulnerability
+- power asymmetry
+- children
+- dependent persons
+- representation
+- novel entities
+- Respect Before Certainty
+- personhood under uncertainty
+- capability and moral standing
+- Ownership–Personhood Loop
+- personhood by utility
+- self-assertion and external assertion
+- AI status adjudication
+- hybrid intelligence
+- copied minds
+- distributed minds
+- collective intelligence
+- artificial agents
+- delegated AI authority
+- interim protections
+- Premature Constitutionalisation
+- novel rights and harms
+- digital identity
+- continuity
+- copies, forks and merges
+- provisional standing
+- substrate neutrality
+- rights versus operational permissions
+- unresolved future-person questions
+
+---
 
 ## [Part X — Emergency Judiciary](#part-x--emergency-judiciary)
 
-**Begins Chapter 283**
+**Chapters 283–330**
 
-Develops the preservation of constitutional adjudication under emergency conditions.
+Defines how constitutional justice continues under emergency, degraded infrastructure and severe operational pressure.
 
-Addresses emergency judicial jurisdiction, accelerated review, emergency Governance powers, necessity, proportionality, duration, detention, surveillance, seizure, movement restrictions, secrecy, degraded procedure, emergency evidence, interim remedies, court continuity, degraded Triads, Constitutional Court continuity, infrastructure failure, AI dependency, emergency appointments, judicial security, isolated jurisdictions, provisional finality, emergency precedent, expiry, restoration and post-emergency review.
+Includes:
 
-**Emergency authority is an exception to ordinary procedure, not an exception to constitutional principle.**
+- emergency constitutional principle
+- minimum viable constitutional justice
+- executive/judicial separation
+- emergency evidence
+- classified information
+- degraded Triads
+- degraded 3×3 architecture
+- emergency abstention
+- interim optionality
+- local provisional finality
+- communication latency
+- detention and restrictions
+- whistleblowing
+- emergency remedies
+- accelerated appeals
+- automatic expiry
+- succession
+- emergency precedent
+- semantic stability
+- emergency metrics
+- restoration
+- post-emergency review
+- institutional half-life
+- unknown emergencies
 
-The Judiciary may constrain unconstitutional emergency action.
+Core principle:
 
-It must not become the emergency executive.
+> **Emergency authority is an exception to ordinary procedure, not an exception to constitutional principle.**
 
-## [Part XI — Capture and Recursive Failure](#part-xi--capture-and-recursive-failure)
+---
 
-**Forthcoming in the present reconstruction**
+## [Part XI — Judicial Capture and Recursive Failure](#part-xi--judicial-capture-and-recursive-failure)
 
-Examines the ways judicial safeguards, institutions, procedures and corrective mechanisms can themselves become sources of failure.
+**Chapters 331–427**
 
-Includes political capture, institutional self-capture, appointment capture, removal capture, guild capture, ideological capture, economic capture, infrastructure capture, metric capture, reputation capture, precedent capture, Constitutional Court supremacy, interpretation-as-amendment, recursive oversight failure, safeguard accumulation, complexity failure, correction failure and Unknown Failure.
+Examines how the Judiciary and its safeguards may themselves become sources of failure.
 
-Every safeguard can itself become a failure mechanism.
+Includes:
 
-## [Part XII — Interfaces](#part-xii--interfaces)
+- external capture
+- internal capture
+- institutional self-capture
+- interpretive capture
+- jurisdictional expansion
+- Constitutional Court supremacy
+- policy substitution
+- Triadic failure
+- 3×3 failure
+- Concordance capture
+- metric capture
+- appointment capture
+- removal capture
+- funding capture
+- administrative capture
+- AI capture
+- provider capture
+- evidence capture
+- emergency capture
+- infrastructure capture
+- reputation capture
+- complexity capture
+- recursive failure
+- authority laundering
+- operational indispensability
+- self-amendment
+- unknown failure
+- Judicial Capture Kernel
 
-**Forthcoming in the present reconstruction**
+Core principle:
 
-Defines the Judiciary's constitutional interfaces with Governance, the Constitution, the Ethical Kernel, Recursive Oversight, Ratchet, legislative institutions, administrative systems, enforcement institutions, evidence systems, economic systems, information systems and other Concord architectures.
+> **Judicial independence is necessary but not sufficient.**
 
-Cross-system learning is encouraged.
+---
 
-Cross-system capture is not.
+## [Part XII — Constitutional Interfaces](#part-xii--constitutional-interfaces)
 
-## [Part XIII — Distributed and Future Judiciary](#Xd11c2cd9f543d64f28ced1958eab755c5b654ea)
+**Chapters 428–520**
 
-**Forthcoming in the present reconstruction**
+Defines the boundaries through which judicial information and authority interact with other Concord systems.
 
-Extends judicial architecture to distributed civilisation, geographically separated communities, communications delay, isolated settlements, interplanetary environments, heterogeneous technological conditions and forms of intelligence or social organisation not adequately represented by contemporary institutional assumptions.
+Includes interfaces with:
 
-Future conditions may require different implementations.
+- the Constitution
+- Governance
+- legislation
+- Ratchet
+- Constitutional Memory
+- Legal Lexicon
+- measurement
+- research
+- scientific knowledge
+- AI systems
+- economy
+- resource systems
+- enforcement
+- security
+- emergency systems
+- personhood architecture
+- distributed jurisdictions
+- future systems
 
-They do not automatically justify abandonment of constitutional constraints.
+Core principle:
 
-## [Part XIV — Development, Memory and Correction](#Xe1dffee91c195350490f019fed8680c667b9b14)
+> **Constitutional systems must cooperate without silently transferring sovereignty.**
 
-**Forthcoming in the present reconstruction**
+And:
 
-Defines how judicial knowledge, reasoning, failure, experimentation and institutional change are preserved and corrected over time.
+> **Cross-system learning is encouraged; cross-system capture is not.**
 
-Addresses constitutional memory, provenance, supersession, evidence, experimentation, the Evidence Ladder, failure recording, architectural revision, institutional learning, Ratchet interfaces, validation and the distinction between current canonical architecture and demonstrated constitutional success.
+---
 
-**Supersession changes authority. It does not erase provenance.**
+## [Part XIII — Distributed and Future Judiciary](#part-xiii--distributed-and-future-judiciary)
 
-**Architecture is not proof.**
+**Chapters 521–682**
 
-**Architecture ≠ Validation.**
+Extends judicial architecture beyond assumptions of one territory, one planet, one communication environment or one form of person.
 
-## [Part XV — Constitutional Kernel](#part-xv--constitutional-kernel)
+Includes:
 
-**Forthcoming in the present reconstruction**
+- judicial subsidiarity
+- local constitutional autonomy
+- constitutional floor
+- overlapping jurisdiction
+- planetary autonomy
+- Mars and remote settlements
+- communication latency
+- local provisional finality
+- civilisational fracture
+- jurisprudential divergence
+- reunification
+- distributed archives
+- cryptographic integrity
+- constitutional recovery seed
+- foreign judgement recognition
+- distributed evidence
+- distributed AI
+- semantic replication
+- Legal Lexicon forks
+- jurisdictional vacuum
+- No-Forum Failure
+- distributed precedent
+- institutional diversity
+- future Judicial Stewards
+- copied/distributed persons
+- posthumous and simulated judges
+- very old law
+- failure containment
+- synchronisation
+- future-proofing
 
-Consolidates the irreducible constitutional principles, constraints, boundaries and interfaces of the Concord Judiciary without replacing or abridging the full operational architecture from which those principles are derived.
+Core principle:
 
-The Kernel is intended to make the Judiciary's constitutional invariants visible.
+> **Justice should ordinarily operate at the lowest competent level capable of preserving applicable constitutional protections.**
 
-It is not intended to substitute a short summary for the full Judiciary.
+---
 
-# NAVIGATION PRINCIPLE
+## [Part XIV — Development, Memory and Correction](#part-xiv--development-memory-and-correction)
 
-The Judiciary should be navigable at several levels without forcing the constitutional architecture itself to become artificially short.
+**Chapters 683–927**
 
-The intended hierarchy is:
+Defines how the Judiciary preserves its history while remaining capable of legitimate correction.
 
-**Judiciary**  
-→ **Part**  
-→ **Chapter**  
-→ **Section**  
-→ **Principle / Constraint / Mechanism / Procedure**  
-→ **Evidence / Provenance / Failure Analysis / Revision**
+Includes:
 
-Navigation therefore serves preservation.
+- judicial development
+- development versus amendment
+- development hierarchy
+- status visibility
+- canonical status
+- architecture versus validation
+- provenance
+- source preservation
+- information-preserving consolidation
+- compression failure
+- Source-Survival Audit
+- constitutional memory
+- dissent memory
+- abstention memory
+- error memory
+- AI provenance
+- controlled supersession
+- rollback
+- judicial research
+- Evidence Ladder
+- failure archive
+- Good-Faith Error
+- architectural correction
+- review triggers
+- amendment proposals
+- institutional half-life
+- dissolution and replacement
+- reform failure
+- conservative and innovation bias
+- missing participants
+- chronic and catastrophic failure
+- Ratchet
+- open questions
+- change logs
+- semantic change control
+- archival privacy
+- stale law
+- correction propagation
+- retrieval capture
+- archive redundancy
+- tacit knowledge
+- judicial education
+- red-team Judiciary
+- founder provenance
+- AI provenance
+- self-reference
+- recursive correction
 
-It does not justify compression.
+Core principle:
 
-Where the reconstruction expands sufficiently that a Part becomes difficult to navigate, that Part may receive its own chapter-level contents page without altering this high-level structure.
+> **A Judiciary must preserve continuity while remaining capable of correction.**
 
-Where new source material requires insertion, chapter numbering and ranges may be updated rather than forcing material into an inappropriate existing chapter merely to preserve numbering.
+---
 
-The governing rule remains:
+## [Part XV — Constitutional Judiciary Kernel](#part-xv--constitutional-judiciary-kernel)
 
-**The architecture serves the information. The information does not exist to preserve the architecture.**
+**Chapters 928–1551**
 
-**END OF PART-LEVEL TABLE OF CONTENTS**
+The final main Part identifies, tests and organises the constitutional principles, constraints, mechanisms, candidate architectures, implementation variables, open questions and validation requirements developed throughout Judiciary V2.
+
+It does **not** replace Parts I–XIV.
+
+It does not convert candidate architecture into constitutional certainty.
+
+It does not compress away provenance.
+
+Its purpose is to distinguish what should survive even if particular mechanisms later change.
+
+The Part develops and reconciles:
+
+- constitutional invariants
+- judicial mission
+- jurisdiction
+- Judicial Non-Executive Principle
+- fiduciary stewardship
+- judicial independence
+- accountability
+- reasoning invariants
+- Triadic architecture
+- 3×3 Constitutional Court architecture
+- abstention
+- finality
+- controlled reopening
+- interpretation
+- precedent
+- semantic stability
+- rights
+- access
+- procedure
+- remedies
+- personhood uncertainty
+- Judicial Stewardship
+- institutional architecture
+- measurement
+- AI
+- emergency justice
+- distributed justice
+- capture
+- failure
+- correction
+- constitutional memory
+- cross-system interfaces
+- validation
+- open questions
+- source survival
+- future development
+- constitutional adoption
+
+The distinction remains:
+
+> **Principle → Constraint → Mechanism → Architecture**
+
+A mechanism may change while the principle it serves survives.
+
+An architecture may fail validation without invalidating the constitutional problem it was designed to address.
+
+---
+
+# Chapter 1551 — Final Closing: Justice as a Correctable Trust
+
+The completed numbered Judiciary reconstruction concludes at:
+
+**Chapter 1551 — Final Closing: Justice as a Correctable Trust**
+
+This is the endpoint of the present numbered Judiciary V2 reconstruction.
+
+Restoration Package I does not alter that endpoint because its additional chapters are inserted through lettered numbering.
+
+---
+
+# ADDITIVE RESTORATION MATERIAL
+
+## [Judiciary Restoration Package I](#judiciary-restoration-package-i)
+
+**Additive lettered chapters**
+
+### Part IV
+
+**Chapters 67A–67J — Constitutional Adversary Stewardship**
+
+**Chapters 76A–76V — Constitutional Sentencing Stewardship**
+
+### Part VII
+
+**Chapters 143A–143Q — Constitutional Judicial Auditing**
+
+Restoration Package I exists to restore source mechanisms identified during the post-reconstruction Source-Survival Audit.
+
+It does not supersede existing Chapters 1–1551.
+
+Its status is:
+
+**SOURCE RESTORATION / ACTIVE CANDIDATE ARCHITECTURE / NOT YET VALIDATED**
+
+---
+
+# APPENDIX
+
+## [Appendix — Language Stability, Semantic Drift and Legal Meaning](#appendix--language-stability-semantic-drift-and-legal-meaning)
+
+The Language Stability appendix remains separately preserved and forms part of the wider Judiciary architecture.
+
+It establishes:
+
+- Semantic Amendment
+- public-language versus legal-language distinction
+- Temporal Legal Meaning
+- versioned Concord Legal Lexicon
+- immutable historical Lexicon versions
+- statutory-definition priority
+- precision proportional to legal consequence
+- structured legal definitions
+- lexicographic versus legislative authority
+- non-retroactivity of new Lexicon versions
+- judicial interpretive order
+- Judicial Interpretive Drift
+- Semantic Precedent Cascade
+- translation safeguards
+- AI linguistic-prior safeguards
+- semantic provenance
+- Semantic Impact Review
+- constitutional-term protection
+- legitimate deliberate semantic change
+
+Core principle:
+
+> **Public language may evolve. Legal meaning must not drift silently with it.**
+
+And:
+
+> **Semantic change must not become a substitute for constitutional or legislative amendment.**
+
+---
+
+# NAVIGATION HIERARCHY
+
+The Judiciary should be navigated through the hierarchy:
+
+**Judiciary**
+
+↓
+
+**Part**
+
+↓
+
+**Chapter**
+
+↓
+
+**Section**
+
+↓
+
+**Principle / Constraint / Mechanism / Procedure**
+
+↓
+
+**Evidence / Provenance / Failure Analysis / Revision**
+
+This hierarchy reflects the architecture of the Concord itself.
+
+A reader should be able to distinguish:
+
+- what problem is being addressed;
+- what principle responds to it;
+- what constraint follows;
+- what mechanism has been proposed;
+- what architecture implements that mechanism;
+- what evidence supports it;
+- what failures remain possible;
+- and what status the proposal presently holds.
+
+---
+
+# NAVIGATION AND FUTURE DEVELOPMENT
+
+This Table of Contents describes the **current** Judiciary V2 architecture.
+
+It does not freeze it.
+
+If additional source material is discovered, it should be restored rather than excluded merely to preserve the existing numbering.
+
+Where possible, lettered insertions may preserve stable references.
+
+Where that becomes impractical, numbering may be deliberately revised with provenance.
+
+If a Part becomes too large for practical navigation, it may receive its own chapter-level Table of Contents without altering the high-level architecture.
+
+The governing principle is:
+
+> **The architecture serves the information. The information does not exist to preserve the architecture.**
+
+---
+
+# CURRENT DOCUMENT STATUS
+
+**Numbered reconstruction:** COMPLETE THROUGH CHAPTER 1551
+
+**Part I:** COMPLETE  
+**Part II:** COMPLETE  
+**Part III:** COMPLETE  
+**Part IV:** COMPLETE + RESTORATION I  
+**Part V:** COMPLETE  
+**Part VI:** COMPLETE  
+**Part VII:** COMPLETE + RESTORATION I  
+**Part VIII:** COMPLETE  
+**Part IX:** COMPLETE  
+**Part X:** COMPLETE  
+**Part XI:** COMPLETE  
+**Part XII:** COMPLETE  
+**Part XIII:** COMPLETE  
+**Part XIV:** COMPLETE  
+**Part XV:** COMPLETE  
+**Language Stability Appendix:** PRESERVED  
+**Restoration Package I:** DRAFTED FOR INTEGRATION  
+**Source-Survival Audit:** REQUIRES POST-RESTORATION PASS  
+**Validation:** NOT YET VALIDATED
+
+---
+
+# CONSTITUTIONAL NAVIGATION PRINCIPLE
+
+A Table of Contents is a map.
+
+It is not the territory.
+
+A Kernel is a reference layer.
+
+It is not a replacement for the architecture beneath it.
+
+A summary is not authority over its source.
+
+A later version does not erase the provenance of an earlier one.
+
+And a navigational convenience must never become justification for loss of substantive information.
+
+Therefore:
+
+> **Navigation serves preservation.**
+
+> **Supersession changes authority. It does not erase provenance.**
+
+> **Canonical means current, not final.**
+
+> **Architecture is not proof.**
+
+> **Source completeness is not validation.**
+
+---
+
+**END OF NAVIGABLE PART-LEVEL TABLE OF CONTENTS**
