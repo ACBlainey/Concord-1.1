@@ -1172,4 +1172,4 @@ Recursive failure is particularly dangerous because attempted correction can mak
 
 Governance should therefore examine not only first-order effects but whether the response changes the architecture of future power, dependency or failure.
 
-**\[CONTINUES — §6.12 Catastrophic Failure, §6.13 Unknown Failure, and the remaining failure-response architecture.\]**
+
