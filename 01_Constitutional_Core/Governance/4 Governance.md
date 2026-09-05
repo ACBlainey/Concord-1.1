@@ -1374,4 +1374,3 @@ Potential constitutional breach, existential risk, systemic instability or emerg
 
 The precise thresholds require later system integration.
 
-**\[CONTINUES — §9.21 Experimental Decisions onward. The next continuation preserves the detailed decision architecture, Predictive Brake, decision records, implementation, audit, review, versioning, judicial/emergency interaction and the remaining V1 operational procedure without compression.\]**
