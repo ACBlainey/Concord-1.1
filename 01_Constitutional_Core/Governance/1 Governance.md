@@ -1088,4 +1088,3 @@ An economist does not acquire sovereignty because an economic problem is complex
 
 A security expert does not acquire unlimited authority because a threat exists.
 
-**\[CONTINUES — Section 1.9.2 onward. The preservation baseline remains controlling; no existing source material has been condensed or replaced.\]**
