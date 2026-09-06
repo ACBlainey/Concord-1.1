@@ -272,6 +272,26 @@ Its central question is:
 
 > **How can civilisation learn without requiring its constitutional identity to be continuously rewritten?**
 
+### Portable Recursive Oversight Module
+
+The constitutional theory and boundaries of recursive oversight are developed within Recursive Constitutional Architecture V2.
+
+A derived operational implementation is maintained separately as a portable module at:
+
+`06_Portable_Modules/Recursive Oversight/`
+
+The portable module provides a reusable architecture for bounded recursive accountability, institutional corrigibility, oversight of oversight, escalation, recovery, legitimate finality and institutional replacement.
+
+Its separation from the Constitutional Core is intentional:
+
+> **Recursive Constitutional Architecture establishes why recursive oversight is constitutionally necessary and bounded. Recursive Oversight provides a portable mechanism for implementing that function.**
+
+The portable module remains subordinate to the constitutional principles and authority boundaries established in the Constitutional Core.
+
+**Current status:**
+**DERIVED / ACTIVE / PORTABLE MODULE / SOURCE-COMPLETE RECONSTRUCTED CANDIDATE / NOT YET VALIDATED**
+
+
 ---
 
 ## Constitutional Generativity
