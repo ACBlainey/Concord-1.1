@@ -20,7 +20,7 @@ It does not replace or compress the existing Recursive Oversight V2 reconstructi
 
 Its purpose is to explicitly restore residual source elements identified during the post-reconstruction source-survival audit of the original:
 
-`01_Constitutional_Core/Recursive Oversight.md`
+`ACBlainey/Concord/10_MVP_&_Modules/Recursive Oversight.md`
 
 The existing V2 reconstruction remains unchanged.
 
