@@ -310,7 +310,7 @@ However, this too requires reciprocity and context. A participant cannot necessa
 
 ---
 
-# Sketch 5 — Homelessness as a Layer-Zero Systems Failure
+# Sketch 5 — Homelessness as a Layer-Zero Systems Failure (Status: extracted from this sketch and being developed)
 
 ## Core hypothesis
 
