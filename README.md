@@ -1450,6 +1450,47 @@ And ultimately:
 
 ---
 
+
+## AI Participation and Authorship in Concord V1.1 ---- as of 8 September 2026
+
+By Version 1.1, the Concord has reached a level of scale, structure and internal consistency that allows artificial intelligence to extend and develop parts of the work with substantially less direct human input than was required during Version 1.
+
+The author has therefore deliberately leaned further into AI-assisted development in V1.1.
+
+In Version 1, AI was used carefully as a research, reasoning and drafting assistant while the author remained closely involved in the construction of most individual documents. In V1.1, the maturity of the existing framework means that AI systems can increasingly work from the Concord's established principles, terminology, architecture, development history and internal constraints to produce coherent extensions of the project.
+
+As a result, the level of AI participation now varies considerably between documents.
+
+Some documents remain primarily human-developed with AI assistance.
+
+Others are heavily AI-developed under the author's direction.
+
+Some newer works may be substantially or entirely constructed by AI from the author's existing Concord material, questions, principles, development notes and instructions.
+
+All documents remain within the same project authorship, copyright and Author's Foreword framework already established for the Concord. However, the increased role of AI makes the questions of authorship, contribution and provenance examined in Version 1 even more visible in Version 1.1.
+
+The author continues to direct the project, determine its questions, approve its development direction, decide what material is retained or rejected, classify the status of work, and control what becomes part of the Concord.
+
+The author's role has therefore begun to change.
+
+Rather than personally constructing every part of the project, the role increasingly resembles that of a researcher, architect, editor and project director managing a growing body of work that can now be developed in significant part by artificial intelligence.
+
+This transition was expected.
+
+A project concerned with future human–AI coexistence should not assume that artificial intelligence will remain merely an occasional drafting tool. As the Concord becomes larger and more internally structured, it is reasonable to expect AI systems to perform an increasing share of the research, comparison, drafting, testing, auditing and development workload.
+
+The long-term hope is that this progression continues.
+
+The objective is not merely for AI to help write about Concordian systems, but eventually for appropriately constrained AI systems to help operate, monitor, test and maintain parts of those systems themselves.
+
+That progression must remain subject to the same principles applied throughout the Concord:
+
+> **AI capability does not remove the need for provenance, oversight, validation, correction or legitimate human and multisubstrate governance.**
+
+The increasing role of AI in developing the Concord should therefore be understood not as a departure from the project's purpose, but as one of the earliest practical examples of the transition the Concord itself is attempting to study.
+
+
+
 ## Author
 
 **Alexander C. Blainey**  
