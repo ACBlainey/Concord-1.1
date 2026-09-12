@@ -12,7 +12,35 @@ The guiding idea is:
 
 This is closely related to the Concord principle of **peaceful distance**: different societies should be able to remain different, where those differences are legitimate, without requiring isolation, assimilation or conflict.
 
-For the fuller architectural rationale, see the orientation papers in `00_Front_Door/What_Is_The_Concord`.
+## The Concord Provides the Architecture — Not the Government
+
+A Concord Civilisational Wrapper is a **provided interoperability architecture**, not a Concord-managed foreign-relations system.
+
+The Concord may design, publish, test and improve wrapper tools, schemas and procedures. The civilisations or jurisdictions using those tools determine and negotiate their actual utilisation and remain responsible for operating their relationship.
+
+> **The Concord provides the tools; adoption of those tools does not transfer authority to the Concord over their users.**
+
+Therefore:
+
+**Concord Provides Architecture ≠ Concord Operates the Relationship**  
+**Common Protocol ≠ Common Government**  
+**Wrapper Adoption ≠ Concord Oversight**  
+**Design Authorship ≠ Operational Authority**  
+**Technical Compatibility ≠ Political Subordination**
+
+This applies equally where a wrapper connects the Concord to another civilisation and where two non-Concord civilisations use Concord-compatible wrappers to interact with each other.
+
+The Concord does not currently aim to mediate or manage disputes between foreign civilisations that do not materially involve the Concord merely because those civilisations use Concord-developed wrapper architecture.
+
+### Optional Mediation
+
+Third-party or Concord-provided mediation may be a useful future development, particularly where extreme hostility makes a mutually accepted non-hostile intermediary valuable. Such mediation would be a **separate, optional and explicitly authorised function** rather than an inherent feature of wrapper adoption.
+
+> **Neutrality, competence or authorship of the wrapper does not manufacture authority to mediate.**
+
+Any future mediation role would require its own consent, legitimate authority, defined scope, accountability and termination conditions.
+
+For the fuller architectural rationale, see the orientation papers in `00_Front_Door/What_Is_The_Concord` and the core wrapper papers in `01_Concord_Civilisational_Wrapper/01_Core_Wrapper_Architecture`.
 
 ---
 
@@ -33,7 +61,8 @@ Initial cases include:
 - United States constitutional republic;
 - United Kingdom parliamentary monarchy;
 - French republic;
-- Chinese state system.
+- Chinese state system;
+- North and South Korea hostile-border case study.
 
 These are **research cases, not completed wrapper designs**.
 
