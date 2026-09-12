@@ -1,7 +1,7 @@
 # Liberland, Croatia and Serbia — Concord Wrapper Case Study
 
 **Project:** The Concord V1.1  
-**Status:** CASE STUDY WORKSPACE / ACTIVE RESEARCH / NOT CANONICAL
+**Status:** HYPOTHETICAL HIGH-INTEREST IMPLEMENTATION CASE / ACTIVE RESEARCH / NO AGREEMENT OR OFFICIAL INVOLVEMENT / NOT CANONICAL
 
 ---
 
@@ -21,6 +21,56 @@ The study should therefore avoid assuming in advance either:
 Instead, the wrapper question is:
 
 > **Can an interoperability architecture represent and manage relationships involving a developing polity whose territorial control, recognition, jurisdiction and diplomatic standing are incomplete or disputed?**
+
+## Research Relationship and Current Status
+
+This case has unusually high practical interest to the Concord project, but its present status must be stated precisely.
+
+Alexander C. Blainey is an **e-resident of Liberland** and has previously communicated with Liberland officials. However, as of 12 September 2026:
+
+- there is **no agreement** between Liberland and the Concord project;
+- there is **no authorised implementation plan**;
+- there is **no pilot programme**;
+- there is **no partnership, endorsement or institutional relationship**;
+- there is **no official Liberland commitment to evaluate or adopt Concord architecture**; and
+- the Concord does **not** speak for or represent Liberland.
+
+The present work is therefore entirely an **independent hypothetical Concord research exercise**.
+
+The existence of e-residency or previous communication must not be interpreted as institutional consent, official interest, sponsorship, authorisation or endorsement.
+
+A useful provenance rule for this case is:
+
+> **Access or communication does not imply authority, endorsement or agreement.**
+
+Any future change in status should be recorded explicitly rather than inferred retrospectively.
+
+## Hypothetical Development Path
+
+If this case ever progresses beyond independent research, the stages should remain clearly separated:
+
+**Stage 1 — Independent Hypothetical Research**  
+Concord researchers analyse Liberland, Croatia and Serbia using public sources and develop wrapper or portable-module proposals without institutional participation.
+
+**Stage 2 — Informal Presentation or Discussion**  
+Research may be shown to relevant individuals or officials for comment. Discussion alone does not imply endorsement, adoption or institutional commitment.
+
+**Stage 3 — Mutually Agreed Evaluation**  
+A relevant authority may explicitly agree to examine one or more wrapper components or portable modules. Scope, participants and status should then be documented.
+
+**Stage 4 — Authorised Pilot or Implementation**  
+A defined mechanism may be voluntarily tested or implemented under explicit authority, responsibilities, boundaries, review criteria and termination conditions.
+
+Only **Stage 1** exists at present.
+
+Therefore:
+
+> **Hypothetical Applicability ≠ Institutional Interest**  
+> **Discussion ≠ Evaluation Agreement**  
+> **Evaluation ≠ Adoption**  
+> **Adoption ≠ Concord Authority**
+
+This separation is especially important because the case may later become experimentally useful. A clean provenance trail should make clear whether a proposal originated as independent Concord research, was subsequently presented, was voluntarily evaluated, or was formally adopted.
 
 ## Why This Is a Distinctive Test
 
@@ -63,6 +113,8 @@ This case should examine at least the following questions:
 8. **Digital Government:** How should a digitally organised or blockchain-based government interact with conventional state legal systems?
 9. **Population and Presence:** How should the wrapper distinguish claimed citizenship from actual physical population, settlement, residence and territorial control?
 10. **Developmental Statehood:** Can wrapper architecture remain useful while the political status of a polity changes over time?
+11. **Portable Modules:** Which Concord modules could be independently useful to a small developing polity without requiring adoption of the full Concord civilisation?
+12. **Empirical Feedback:** If any module were ever voluntarily evaluated, what evidence would be needed to determine whether it worked, failed, or required redesign?
 
 ## Legal-Status Neutrality
 
@@ -156,6 +208,53 @@ Possible capability dimensions include:
 
 This may reveal a distinction between **statehood** and **interoperability readiness**.
 
+## Portable-Module Applicability
+
+Liberland may also provide a useful test of a second Concord deployment path: voluntary adoption of individual Concord-developed modules without adopting the whole Concord civilisation.
+
+Possible candidates may eventually include, subject to independent evaluation:
+
+- epistemic methodologies such as Reality Trees or Blaineyan Reasoning;
+- Authority Justification architecture;
+- Safe Spaces and informed-participation mechanisms;
+- machine-checkable ethical constraints;
+- governance or stewardship components;
+- multisubstrate and digital-citizenship architecture;
+- GTP where spatial applications are genuinely appropriate;
+- and other portable modules developed elsewhere in the Concord.
+
+No module should be treated as suitable merely because it originated within the Concord.
+
+Each should be evaluated against an actual problem, expected benefit, implementation burden, failure modes, local compatibility and measurable outcomes.
+
+The desired research sequence is:
+
+**Local Problem → Candidate Concord Module → Independent Applicability Assessment → Voluntary Evaluation If Invited → Observed Results → Ratchet / Revision**
+
+not:
+
+**Concord Module Exists → Find Somewhere To Install It**.
+
+This makes the Liberland case potentially valuable even if the wrapper itself is never used.
+
+## Potential Experimental Value
+
+If a Concord-developed mechanism were ever voluntarily tested in a real institutional setting, the project could begin obtaining **external implementation evidence** rather than relying only on internal architectural analysis.
+
+Such evidence should include failures as well as successes.
+
+A failed pilot could reveal hidden assumptions, administrative burdens, local incompatibilities, capture risks or design flaws that theoretical development had missed.
+
+Therefore, if any authorised test ever occurs:
+
+> **Pilot Success ≠ Universal Validation**
+
+and
+
+> **Pilot Failure ≠ Automatic Rejection of the Underlying Concord Principle**
+
+The Ratchet should preserve the evidence, identify what actually failed, and determine whether the relevant mechanism, implementation or foundational assumption requires revision.
+
 ## Concord Non-Governance Principle
 
 This case remains subject to the general Concord Wrapper Non-Governance Principle.
@@ -166,15 +265,19 @@ Any actual utilisation would depend upon the participating parties and whatever 
 
 Optional Concord or third-party mediation would be a separate, explicitly authorised function rather than an inherent component of wrapper adoption.
 
+Likewise, the existence of an accessible developing polity does not give the Concord a mandate to redesign its institutions. Any portable-module evaluation or wrapper use would require voluntary, properly authorised participation.
+
 ## Comparative Value
 
 This case complements the other wrapper studies well:
 
 - **North–South Korea:** high hostility, low interoperability, clear established state actors;
 - **United States–China:** strategic rivalry with extensive existing interoperability;
-- **Liberland–Croatia–Serbia:** uncertain recognition, disputed jurisdiction, small developing polity and incomplete territorial control.
+- **Liberland–Croatia–Serbia:** uncertain recognition, disputed jurisdiction, small developing polity, incomplete territorial control, and a hypothetical future route to voluntary practical evaluation.
 
 If the same wrapper grammar remains useful across all three, this would provide stronger evidence that the architecture is capable of handling not only different political systems, but different **degrees of political maturity, recognition and sovereignty**.
+
+Liberland is therefore especially interesting experimentally, but that experimental interest must not be mistaken for existing institutional engagement.
 
 ## Initial Sources for Later Research
 
