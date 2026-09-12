@@ -32,7 +32,7 @@ Future examples might include:
 - communities of artificial intelligences seeking political autonomy;
 - or newly declared states created following a breakdown between a sentient population and an existing government.
 
-Liberland should therefore be studied both as a case in its own right and as a precursor to a wider Concord architecture for **Emerent Polity Recognition**.
+Liberland should therefore be studied both as a case in its own right and as a precursor to a wider Concord architecture for **Emergent Polity Recognition**.
 
 ## 2. Present Research Status
 
