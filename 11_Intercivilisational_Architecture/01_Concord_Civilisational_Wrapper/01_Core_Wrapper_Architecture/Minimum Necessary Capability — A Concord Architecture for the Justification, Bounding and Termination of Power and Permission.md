@@ -49,6 +49,19 @@ It should remain bounded to the context that justified it.
 
 And when the justification ends, the capability should ordinarily end with it.
 
+Adversarial testing across policing, emergency government, medicine, guardianship, property, military command, AI systems and critical infrastructure suggests that this common structure survives beyond its original cases, but requires several important qualifications.
+
+In particular:
+
+- capability is not always formally granted;
+- some capabilities require multiple concurrent legitimate bases;
+- greater intrusion may require stronger justification;
+- oversight should scale with consequence;
+- capability must be evaluated locally and systemically;
+- formal authority may differ from effective power;
+- urgent circumstances may sometimes require authority to be assumed before ordinary authorisation can be obtained;
+- such assumed authority requires heightened articulation, responsibility, intervention where practicable and automatic retrospective review.
+
 This suggests a higher-order Concord architecture:
 
 > **Minimum Necessary Capability**
@@ -57,19 +70,55 @@ This suggests a higher-order Concord architecture:
 
 ## 2. Fundamental Definition
 
-> **Where a legitimate objective requires a function that cannot be performed without granting additional capability to a participant, institution or system, the capability granted should be sufficient to perform that function but no broader, stronger, longer-lasting, more intrusive, more transferable or more persistent than the function reasonably requires.**
+> **Where a legitimate objective requires a function that cannot be performed without additional capability being legitimately established for a participant, institution or system, that capability should be sufficient to perform the function but no broader, stronger, longer-lasting, more intrusive, more transferable or more persistent than the function reasonably requires.**
 
 Additional capability should require additional justification.
 
-Capability should ordinarily terminate when its legitimate basis ends unless an independent legitimate basis remains.
+Capability should ordinarily terminate when its legitimate basis ends unless another independent legitimate basis remains.
+
+The objective is not minimum power in the abstract.
+
+It is:
+
+> **The least intrusive distribution of legitimate capability that remains sufficient to perform the required function reliably while respecting fundamental rights, accounting for aggregate and emergent power, and reducing or terminating capability when its justification no longer persists.**
 
 ---
 
-## 3. What Is Capability?
+## 3. Capability Is Not Always Granted
 
-For this architecture, **capability** means a legitimately exercisable ability that allows a participant, institution or system to affect another participant, resource, space, process, information domain or civil function.
+Earlier formulations described capability primarily as something **granted**.
 
-Examples include the capability to:
+That is too narrow.
+
+Capability may be:
+
+- explicitly granted;
+- consent-derived;
+- role-derived;
+- responsibility-derived;
+- property-derived;
+- contract-derived;
+- delegated;
+- recognised by law or constitution;
+- activated by specified conditions;
+- temporarily assumed under urgent necessity;
+- technically available;
+- structurally produced through dependency;
+- emergent from combinations of otherwise bounded capabilities.
+
+The more general concept is therefore:
+
+> **Legitimately Established Capability**
+
+This avoids implying that every legitimate capability must originate from a superior granting authority.
+
+---
+
+## 4. What Is Capability?
+
+For this architecture, capability means an ability through which a participant, institution or system can materially affect another participant, resource, space, process, information domain or civil function.
+
+Examples include the ability to:
 
 - enter;
 - inspect;
@@ -91,101 +140,154 @@ Examples include the capability to:
 - administer a process;
 - exercise emergency powers.
 
-The physical or technical ability to do something is not sufficient.
+But several different things must remain distinct:
 
-Therefore:
+> **Legitimate Capability ≠ Physical Capability**
 
-> **Capability in the normative sense ≠ Physical or Technical Capacity**
+> **Legitimate Capability ≠ Technical Capability**
 
-A system may technically be able to access information while lacking legitimate permission to do so.
+> **Declared Capability ≠ Actual Capability**
+
+> **Formal Authority ≠ Effective Power**
+
+A system may technically be capable of an action while lacking legitimate permission.
+
+Conversely, an institution may possess formal authority while lacking the practical capability required to exercise it.
 
 ---
 
-## 4. The General Capability Chain
+## 5. Capability Forms
 
-A provisional general architecture is:
+A provisional capability taxonomy includes:
 
-**Problem / Legitimate Purpose**
+| Capability Form | Illustrative Basis |
+|---|---|
+| Consent-derived | A visitor permitted to enter a home |
+| Role-derived | A doctor acting within a professional function |
+| Responsibility-derived | A parent performing safeguarding duties |
+| Authority-derived | A regulator exercising legitimate statutory power |
+| Property-derived | An owner controlling legitimate property use |
+| Contract-derived | A contractor accessing specified systems |
+| Emergency-triggered | A responder entering normally restricted space |
+| Assumed | An actor taking time-critical authority before normal authorisation can be obtained |
+| Delegated | An agent acting for another participant |
+| Technical | An administrator technically able to alter a system |
+| Dependency-derived | An infrastructure operator controlling an essential service |
+| Composite / emergent | Data access combined with decision and enforcement capability |
+
+Fundamental rights require separate treatment and should not simply be collapsed into this taxonomy as permissions granted by authority.
+
+---
+
+## 6. The Revised General Capability Chain
+
+Adversarial testing suggests a stronger general sequence:
+
+**Ethical / Constitutional Foundations**
+
+→ **Problem or Legitimate Purpose**
+
+→ **Evidence and Context**
 
 → **Legitimate Objective**
 
 → **Required Function**
 
-→ **Demonstrated Need for Additional Capability**
+→ **Existing Capabilities and Alternatives**
 
-→ **Determine Necessary Capability**
+→ **Is Additional Capability Actually Necessary?**
 
-→ **Grant Minimum Sufficient Capability**
+→ **Determine Legitimate Basis or Bases**
 
-→ **Bound Capability**
+→ **Determine Necessary Capability Floor**
 
-→ **Exercise Capability**
+→ **Apply Rights / Harm / Externality Constraints**
 
-→ **Observe Outcome**
+→ **Determine Minimum Sufficient Capability**
+
+→ **Test Local and Aggregate Capability**
+
+→ **Establish Proportionate Oversight and Provenance**
+
+→ **Bounded Exercise**
+
+→ **Observe Actual Outcome at Layer 0**
 
 → **Review Continuing Need**
 
-→ **Retain, Modify, Escalate, De-escalate or Terminate**
+→ **Retain / Narrow / Escalate / Redistribute / Redesign / Terminate**
 
-This can be shortened to:
+→ **Ratchet**
+
+The compact form remains:
 
 > **Purpose → Function → Need → Minimum Sufficient Capability → Bounded Exercise → Review → Termination or Re-Justification**
 
 ---
 
-## 5. Capability Should Follow Function
+## 7. Existing Capability Before New Capability
 
-The foundational principle is:
+Before creating new authority or permission, the system should ask:
+
+> **Can the legitimate function already be performed adequately through existing bounded capability or a less intrusive alternative?**
+
+This produces:
+
+> **Legitimate Convenience ≠ Necessity for Additional Capability**
+
+A new power should not be created merely because it makes a legitimate function easier where an existing, less intrusive mechanism can adequately perform the function.
+
+---
+
+## 8. Capability Should Follow Function
+
+The foundational principle remains:
 
 > **Capability Should Follow Justified Function.**
 
 A capability should not ordinarily exist merely because it is useful, convenient, traditional or technologically available.
 
-The relevant question is:
-
-> **What legitimate function requires this capability?**
-
-This reverses a common institutional failure pattern:
-
-**Capability Exists**
-
-→ **Institution Searches for Uses**
-
-→ **Uses Become Functions**
-
-→ **Functions Become Justification for Capability**
-
-The Concord instead seeks:
+The Concord seeks:
 
 **Legitimate Need**
 
-→ **Function**
+→ **Required Function**
 
-→ **Capability**
+→ **Necessary Capability**
+
+rather than:
+
+**Capability Exists**
+
+→ **Search for Uses**
+
+→ **Uses Become Functions**
+
+→ **Functions Become Justification**
 
 Therefore:
 
 > **Function Should Justify Capability; Capability Should Not Manufacture Function.**
 
+And more strongly:
+
+> **Capability Should Not Preserve Its Function Merely So That the Function Can Preserve the Capability.**
+
 ---
 
-## 6. Minimum Necessary Does Not Mean Minimum Possible
-
-The phrase **minimum necessary** can be misunderstood.
+## 9. Minimum Necessary Does Not Mean Minimum Possible
 
 A capability can be too weak to perform its legitimate function.
-
-An emergency service authorised to respond to a fire but prohibited from entering the burning building has nominal authority but insufficient capability.
 
 Thus:
 
 > **Minimum Necessary ≠ Minimum Possible**
 
-The correct objective is:
+The objective is:
 
 > **The least capability sufficient to perform the legitimate function to the required standard under reasonably foreseeable conditions.**
 
-This creates two boundaries:
+This creates:
 
 **Insufficient Capability**  
 ← **Necessary Floor**  
@@ -193,27 +295,21 @@ This creates two boundaries:
 ← **Justified Ceiling**  
 → **Excess Capability**
 
-The architecture must avoid both under-capability and over-capability.
+Both under-capability and over-capability are design failures.
 
 ---
 
-## 7. Sufficiency
+## 10. Necessity and Sufficiency
 
-A capability grant should therefore satisfy at least two tests.
+A capability should satisfy at least two tests.
 
 ### Necessity Test
 
-Is the capability actually required for the legitimate function?
+Is this capability actually required?
 
 ### Sufficiency Test
 
-Is the capability adequate to perform the function reliably and to the required standard?
-
-A capability can fail either way.
-
-It may be unnecessary.
-
-Or it may be necessary but insufficient.
+Is it adequate to perform the function reliably and to the required standard?
 
 Thus:
 
@@ -223,65 +319,54 @@ and:
 
 > **Sufficient but Unnecessary ≠ Legitimate Grant**
 
+Anti-power architecture must not become anti-function architecture.
+
 ---
 
-## 8. Capability Is Multidimensional
+## 11. Intrusion and Evidential Burden
 
-A capability may be excessive or insufficient across several independent dimensions.
+A legitimate objective alone does not automatically justify every capability that might help achieve it.
 
-These may include:
+Capabilities differ in how strongly they intrude upon:
 
-### Scope
+- autonomy;
+- privacy;
+- bodily integrity;
+- movement;
+- property;
+- information;
+- due process;
+- other protected interests.
 
-What actions may be performed?
+A provisional principle is:
 
-### Subject
+> **Greater Rights Intrusion Requires Stronger Justification and Safeguards.**
 
-Against or for whom may the capability be exercised?
+Therefore:
 
-### Spatial Range
+> **Legitimate Objective ≠ Sufficient Justification for Arbitrarily Intrusive Capability**
 
-Where may it be exercised?
+The evidential threshold, review requirements and safeguards should normally increase with the consequence and intrusiveness of the capability.
 
-### Functional Purpose
+---
 
-For what purpose may it be exercised?
+## 12. Capability Is Multidimensional
 
-### Temporal Duration
+Capability can be excessive or insufficient across independent dimensions including:
 
-When does it begin and end?
-
-### Intensity
-
-How strongly may it affect others?
-
-### Information Access
-
-What information may be accessed or observed?
-
-### Modification Authority
-
-What may be altered?
-
-### Delegation
-
-May the capability be transferred to another participant?
-
-### Persistence
-
-Does it survive completion of the original function?
-
-### Escalation
-
-What additional capability can become available and under what conditions?
-
-### Revocability
-
-How can the capability be withdrawn?
-
-### Reviewability
-
-Who or what can examine whether it remains justified?
+- scope;
+- subject;
+- spatial range;
+- functional purpose;
+- temporal duration;
+- intensity;
+- information access;
+- modification authority;
+- delegation;
+- persistence;
+- escalation;
+- revocability;
+- reviewability.
 
 Therefore:
 
@@ -289,23 +374,47 @@ Therefore:
 
 ---
 
-## 9. Authority as a Capability
+## 13. Multiple Legitimate Bases
 
-Authority is one form of legitimate capability.
+Some capabilities require more than one basis simultaneously.
 
-It may include the legitimate power to:
+For example, ordinary invasive medical treatment may require a combination such as:
 
-- direct;
-- regulate;
-- adjudicate;
-- compel;
-- restrict;
-- allocate;
-- inspect;
-- intervene;
-- coordinate.
+**Professional Standing**
 
-The Authority Justification Chain can therefore be understood as one implementation of Minimum Necessary Capability:
++ **Legitimate Therapeutic Function**
+
++ **Valid Patient Consent**
+
++ **Appropriate Context**
+
+→ **Legitimate Treatment Capability**
+
+Therefore:
+
+> **One Legitimate Basis ≠ Necessarily Sufficient Basis**
+
+Capability bases may be:
+
+### Alternative
+
+Any one of several independently sufficient bases may establish capability.
+
+### Conjunctive
+
+Several conditions must simultaneously be satisfied.
+
+This is:
+
+> **Capability Basis Composition**
+
+---
+
+## 14. Authority as a Capability
+
+Authority is one specialised form of capability.
+
+The Authority Justification Chain becomes:
 
 **Rights-Relevant Problem**
 
@@ -313,47 +422,33 @@ The Authority Justification Chain can therefore be understood as one implementat
 
 → **Required Function**
 
-→ **Need for Capability**
+→ **Need for Authority**
 
 → **Minimum Necessary Authority**
 
-→ **Bounded Authority**
+→ **Bounded Contextual Authority**
 
 Thus:
 
 > **Minimum Necessary Authority ⊂ Minimum Necessary Capability**
 
+Authority remains a distinct implementation rather than disappearing into the parent concept.
+
 ---
 
-## 10. Permission as a Capability
+## 15. Permission as a Capability
 
-Permission is another form of legitimate capability.
-
-It may permit a participant to:
-
-- approach;
-- traverse;
-- enter;
-- remain;
-- inspect;
-- use;
-- observe;
-- access information;
-- modify;
-- deliver;
-- retrieve.
-
-The Fractal Permission Architecture can therefore be expressed as:
+Permission is another specialised form.
 
 **Legitimate Function**
 
 → **Required Interaction**
 
-→ **Need for Capability**
+→ **Need for Permission**
 
 → **Minimum Necessary Permission**
 
-→ **Bounded Access / Action**
+→ **Bounded Contextual Access**
 
 Thus:
 
@@ -361,117 +456,65 @@ Thus:
 
 ---
 
-## 11. Authority and Permission Are Not Identical
-
-The common parent architecture must not erase important differences.
+## 16. Authority and Permission Are Not Identical
 
 Authority can include legitimate power **over another participant or system**.
 
-Permission may instead allow the holder to undertake an action **without necessarily acquiring authority over another participant**.
-
-For example:
-
-A delivery worker may possess permission to traverse a path.
-
-That does not make the worker an authority over the property owner.
+Permission may allow an action without creating authority over another participant.
 
 Therefore:
 
 > **Shared Capability Grammar ≠ Identical Capability Type**
 
+A delivery worker permitted to traverse a path does not thereby acquire authority over the property owner.
+
 ---
 
-## 12. Rights Are Not Capabilities Granted by Authority
+## 17. Rights Are Not Revocable Capability Grants
 
-The most important constitutional boundary is:
+The constitutional boundary remains essential:
 
 > **Fundamental Rights ≠ Granted Capability**
-
-A right to bodily integrity, autonomy, due process, expression or other constitutionally recognised protection should not be treated as something granted only because an institution has identified a useful function.
-
-Therefore:
 
 > **Right ≠ Permission**
 
 > **Recognition of a Right ≠ Grant of a Privilege**
 
-> **Fundamental Rights Must Not Be Converted Into Revocable Permissions Through Minimum Necessary Capability.**
+> **Minimum Necessary Capability Must Not Convert Fundamental Rights Into Revocable Permissions.**
 
-Minimum Necessary Capability primarily governs **additional granted powers, permissions and privileges**, not the existence of fundamental moral standing.
+Rights can constrain capability without deriving their legitimacy from the capability holder.
 
 ---
 
-## 13. Rights Can Bound Capabilities
+## 18. Rights Bound Capability
 
-Although rights are not granted capabilities, they may limit capability grants.
-
-For example:
-
-A legitimate investigation function may require information access.
-
-But privacy rights may limit:
-
-- what information can be accessed;
-- whose information may be accessed;
-- for how long;
-- under which evidentiary threshold;
-- with which oversight.
-
-Thus:
-
-**Legitimate Function**
-
-does not automatically produce:
-
-**Unlimited Capability**
+A legitimate function does not automatically produce unlimited capability.
 
 Instead:
 
-**Legitimate Function + Rights Constraints + Context**
+**Legitimate Function**
+
++ **Rights Constraints**
+
++ **Context**
+
++ **Evidence**
 
 → **Bounded Legitimate Capability**
 
----
-
-## 14. Capability and Role
-
-Many capabilities attach to roles.
-
-Examples include:
-
-- judge;
-- parent;
-- doctor;
-- firefighter;
-- system administrator;
-- delivery worker;
-- steward;
-- mediator;
-- auditor;
-- AI agent;
-- infrastructure operator.
-
-But:
-
-> **Role Possession ≠ Unlimited Capability**
-
-The role establishes a possible basis.
-
-The actual capability still depends on the legitimate function and context.
+Privacy, bodily integrity, autonomy and other protected interests may constrain otherwise useful powers.
 
 ---
 
-## 15. Capability and Context
+## 19. Capability and Context
 
-Capabilities may be contextual.
+Capability may activate only within particular contexts.
 
-A referee may possess authority during a sporting event that does not exist outside it.
+A referee has authority within a sporting function that does not extend generally beyond it.
 
-A surgeon may legitimately perform invasive procedures during authorised treatment.
+A doctor has professional capability within treatment contexts.
 
-A parent may exercise safeguarding authority in circumstances where a stranger cannot.
-
-An AI may access a database for a specific task without receiving general database access.
+An AI may possess database access for one task without acquiring general access.
 
 Thus:
 
@@ -479,11 +522,11 @@ Thus:
 
 ---
 
-## 16. Capability and Time
+## 20. Capability and Time
 
-Capability should often be temporally bounded.
+Temporary need should normally produce temporary capability.
 
-Examples include:
+This applies to:
 
 - emergency powers;
 - contractor access;
@@ -493,99 +536,35 @@ Examples include:
 - delegated representation;
 - AI task permissions.
 
-Thus:
+Therefore:
 
 > **Temporary Need Should Normally Produce Temporary Capability.**
 
 ---
 
-## 17. Function Completion
+## 21. Function Completion and Capability Termination
 
 Where capability exists solely because a function requires it:
 
 > **Function Completion Should Normally Terminate Function-Derived Capability.**
 
-Examples:
-
-A delivery function ends when delivery is complete.
-
-A maintenance permission ends when maintenance is complete.
-
-An emergency override ends when the emergency ends.
-
-A temporary investigative authority ends when the authorised investigation and associated lawful retention period end.
-
----
-
-## 18. Capability Persistence Requires Independent Justification
-
-Some capabilities legitimately continue after a specific event.
-
-For example, an institution may have a persistent function.
-
-In such cases, capability can persist.
-
-But the justification is not:
-
-> **The capability has existed for a long time.**
-
-It is:
-
-> **The legitimate function continues to exist and continues to require the capability.**
+Capability may persist only where another legitimate basis continues.
 
 Thus:
 
 > **Past Capability ≠ Present Need**
 
-and:
-
 > **Historical Authority ≠ Current Necessity**
 
 ---
 
-## 19. Re-Justification
+## 22. Escalation
 
-Persistent consequential capabilities should be reviewable.
+Some situations require additional capability during an event.
 
-A provisional sequence is:
+The correct pattern is:
 
-**Capability Exists**
-
-→ **Does Original Function Still Exist?**
-
-→ **Does Function Still Require Capability?**
-
-→ **Is Current Capability Still Proportionate?**
-
-→ **Have Less Intrusive Alternatives Appeared?**
-
-→ **Are New Risks or Externalities Present?**
-
-→ **Retain / Narrow / Expand / Redesign / Terminate**
-
-This connects directly to the Ratchet.
-
----
-
-## 20. Capability Escalation
-
-Some situations require increasing capability during an event.
-
-Example:
-
-A utility worker may initially possess permission to inspect an external meter.
-
-If a fault is discovered, additional access may be needed.
-
-The correct pattern is not:
-
-**Initial Limited Permission**
-
-→ **Unlimited Access**
-
-It is:
-
-**Initial Capability**
+**Existing Capability**
 
 → **New Information**
 
@@ -595,114 +574,595 @@ It is:
 
 → **Minimum Additional Capability**
 
-This gives:
+Therefore:
 
 > **Capability Escalation Should Require Additional Justification.**
 
----
-
-## 21. Escalated Capability Should Not Become Baseline
-
-Emergency and exceptional powers are especially vulnerable to persistence.
-
-Therefore:
+And:
 
 > **Escalated Capability Should Not Automatically Become Baseline Capability.**
 
-Once the exceptional condition ends, the system should ordinarily return toward the previous capability level.
+---
 
-This creates:
+# Part II — Assumed Authority Under Time-Critical Conditions
 
-**Baseline**
+## 23. The Timeliness Problem
 
-→ **Trigger**
+Ordinary legitimacy architecture generally prefers authority or consent to be established before consequential action.
 
-→ **Escalation**
+But reality sometimes makes this impossible.
 
-→ **Exceptional Capability**
+Examples include:
 
-→ **Review**
+- an unconscious patient requiring immediate treatment;
+- an emergency responder entering a property;
+- an infrastructure operator preventing cascading failure;
+- a ship's officer assuming command after sudden incapacitation;
+- an AI system taking narrowly bounded protective action when communication is temporarily impossible;
+- a public official responding to an immediate threat where ordinary authorisation cannot arrive in time.
 
-→ **Trigger Ends**
+The Concord therefore requires a mechanism for:
 
-→ **De-escalation**
-
-→ **Baseline or Re-Justified New State**
+> **Time-Critical Assumed Authority**
 
 ---
 
-## 22. Emergency Capability
+## 24. Assumed Authority
 
-Emergency powers provide a crucial stress test.
+Assumed authority exists where:
 
-A genuine emergency may justify capabilities that ordinary circumstances do not.
+1. a legitimate function appears to require consequential action;
+2. the ordinary source of consent or authorisation is unavailable;
+3. obtaining that authorisation would take longer than the function safely permits;
+4. failure to act risks material harm or failure of the legitimate function;
+5. the actor therefore autonomously assumes a bounded capability;
+6. that assumption becomes independently reviewable.
 
-But:
+This is exceptional authority.
 
-> **Emergency Need ≠ Unlimited Emergency Authority**
-
-Emergency capability should remain bounded by:
-
-- the nature of the emergency;
-- necessary function;
-- affected domain;
-- proportionality;
-- duration;
-- rights constraints;
-- oversight;
-- termination conditions.
+It should not silently become ordinary authority.
 
 ---
 
-## 23. Emergency Ratchet Failure
+## 25. Assumed Authority Is Not Assumed Consent
 
-A major failure mode is:
+This distinction is fundamental.
 
-**Emergency**
+Consider an unconscious patient.
 
-→ **Temporary Capability**
+The record should not state or imply:
 
-→ **Emergency Ends**
+> **Consent obtained**
 
-→ **Capability Remains**
+where none was given.
 
-→ **Capability Becomes Normal**
+Instead it should preserve:
 
-This is a form of institutional ratcheting.
+**Consent Status: Not Obtained**
 
-The Concord should therefore explicitly test:
+and separately:
 
-> **Does emergency capability automatically decay when its trigger ends?**
+**Authority Status: Assumed Under Time-Critical Incapacity / Emergency Basis**
 
-Where it does not, continued capability should require independent re-justification.
+Therefore:
+
+> **Assumed Authority ≠ Assumed Consent**
+
+The actor is not pretending that consent occurred.
+
+The actor is explicitly acknowledging its absence while articulating an alternative claimed basis for action.
 
 ---
 
-## 24. Delegation
+## 26. Incapacity Does Not Erase Prior Autonomy
 
-Capability may sometimes be delegated.
+An inability to express a present decision does not necessarily erase earlier valid decisions.
 
-But possession of capability does not necessarily imply authority to delegate it.
+Therefore:
 
-A homeowner permitting a friend to enter does not automatically permit the friend to invite unrestricted additional participants.
+> **Incapacity ≠ Erasure of Prior Autonomous Choice**
 
-An agency possessing sensitive information does not automatically possess unrestricted authority to disclose it.
+and:
 
-An AI agent with tool access should not automatically be able to grant that tool access to another agent.
+> **Inability to Give Present Consent ≠ Permission to Ignore Known Prior Refusal**
+
+Known applicable prior instructions, refusals or constraints must enter the decision process.
+
+Their exact legal effect may vary by jurisdiction and circumstance, but they cannot simply be treated as nonexistent because the participant is presently incapacitated.
+
+---
+
+## 27. The Articulation Burden
+
+Where an actor assumes consequential authority before ordinary authorisation can be obtained, that actor should carry an explicit:
+
+> **Articulation Burden**
+
+The actor should be capable of explaining:
+
+- what was happening;
+- what evidence was available;
+- what legitimate function required action;
+- why normal authorisation or consent was unavailable;
+- why waiting would have created unacceptable risk;
+- what prior instructions or constraints were known;
+- what alternatives were considered;
+- what authority was assumed;
+- why that amount of authority was necessary;
+- what action was actually taken;
+- when the exceptional authority terminated.
+
+The explanation should be assessed according to information reasonably available at the time.
+
+---
+
+## 28. Outcome Does Not Determine Legitimacy
+
+A good outcome does not prove that authority was legitimately assumed.
+
+A bad outcome does not prove that it was illegitimate.
+
+Therefore:
+
+> **Outcome ≠ Legitimacy of Assumed Authority**
+
+A doctor may make a reasonable emergency decision and still lose the patient.
+
+Another actor may abuse authority and accidentally produce a favourable outcome.
+
+Review must examine the decision process and available evidence, not merely the result.
+
+---
+
+## 29. Assumed Authority Carries Assumed Responsibility
+
+The actor who assumes authority is not merely acquiring temporary power.
+
+They are autonomously choosing to accept responsibility for the legitimacy of that exceptional exercise until independent review examines it.
+
+Therefore:
+
+> **Assumed Authority Carries Assumed Responsibility.**
+
+A general formulation is:
+
+> **Where a participant autonomously assumes consequential authority because timely prior authorisation is unavailable, they simultaneously assume responsibility for articulating and justifying that decision and its exercise until independent review determines whether the assumption of authority was legitimate.**
+
+---
+
+## 30. Assumed Responsibility Is Not Automatic Guilt
+
+The concept should not imply that an actor who reasonably responds to an emergency is automatically guilty, negligent or legally liable for an adverse outcome.
+
+Therefore:
+
+> **Assumed Responsibility ≠ Automatic Guilt**
+
+and:
+
+> **Presumptive Accountability ≠ Predetermined Legal Liability**
+
+The actor carries the burden of making the exceptional decision legible and reviewable.
+
+The relevant legal, professional or constitutional process determines any ultimate liability or sanction.
+
+---
+
+## 31. Reversal of the Normal Temporal Order
+
+Ordinary authority often follows:
+
+**Authorisation**
+
+→ **Authority**
+
+→ **Action**
+
+Time-critical assumed authority may instead require:
+
+**Urgent Need**
+
+→ **Autonomous Assumption of Authority**
+
+→ **Action**
+
+→ **Independent Validation**
+
+The temporal order changes.
+
+The legitimacy requirement does not disappear.
 
 Thus:
 
-> **Capability Possession ≠ Capability Delegation Authority**
+> **Urgency May Change the Timing of Legitimacy Review; It Does Not Eliminate the Requirement for Legitimacy.**
 
-Delegation is itself a capability.
+And:
+
+> **Urgency May Justify Acting Before Independent Authorisation; It Does Not Justify Acting Beyond Independent Review.**
 
 ---
 
-## 25. Delegation Chain
+## 32. Contemporaneous Recording
 
-A legitimate delegation architecture may require:
+Where practicable, the justification for assumed authority should be recorded contemporaneously or as close to the event as circumstances permit.
 
-**Original Legitimate Capability**
+This reduces retrospective rationalisation.
+
+The record should explicitly distinguish:
+
+- known facts;
+- uncertain information;
+- inferred risks;
+- absent consent;
+- prior instructions;
+- authority assumed;
+- actions taken.
+
+This creates capability provenance for the exceptional event.
+
+---
+
+## 33. Prospective Intervention
+
+Retrospective review alone cannot prevent harm already inflicted.
+
+Where practicable, another appropriately situated participant or system should be able to challenge or intervene against an apparently illegitimate exercise of assumed authority.
+
+This creates:
+
+> **Prospective Intervention**
+
+For example, another clinician who knows that an unconscious patient has an applicable prior refusal should have a legitimate mechanism to raise that information and challenge the proposed intervention.
+
+---
+
+## 34. Intervention Must Not Defeat the Legitimate Function
+
+Intervention architecture must not recreate the timing problem it is meant to solve.
+
+Therefore:
+
+> **Intervention Opportunity ≠ Mandatory Delay**
+
+Where delay itself would create unacceptable risk, the absence of an immediately available reviewer should not automatically make necessary action impossible.
+
+The principle is:
+
+> **Oversight Should Intervene Where Practicable Without Making Time-Critical Legitimate Action Impossible.**
+
+---
+
+## 35. Automatic Retrospective Review
+
+For sufficiently consequential assumed authority, review should not depend solely upon a complaint.
+
+The exercise itself should trigger review.
+
+Therefore:
+
+> **The Exercise of Consequential Assumed Authority Should Itself Trigger Proportionate Independent Review.**
+
+This protects participants who:
+
+- remain incapacitated;
+- die;
+- do not know what happened;
+- lack resources;
+- fear the authority;
+- cannot independently establish the relevant facts.
+
+The accountability event is created by the exceptional exercise of authority itself.
+
+---
+
+## 36. Reduced Prospective Oversight and Increased Retrospective Accountability
+
+Where circumstances make prior independent authorisation impossible, the system necessarily loses one safeguard.
+
+That should not mean accountability also decreases.
+
+Instead:
+
+> **Reduced Prospective Oversight Should Produce Increased Retrospective Accountability.**
+
+This allows rapid legitimate action without creating unreviewable discretion.
+
+At its simplest:
+
+> **Autonomy at the moment of unavoidable decision; accountability immediately thereafter.**
+
+---
+
+## 37. Independent Review Standard
+
+Review should ask:
+
+> **Was the assumption and exercise of authority legitimate given the information, alternatives, constraints and urgency reasonably knowable at the time?**
+
+It should examine:
+
+- whether the claimed problem existed;
+- whether urgency was genuine;
+- whether ordinary authorisation was genuinely unavailable;
+- whether prior instructions were checked where practicable;
+- whether known refusals were respected or legitimately addressed;
+- whether less intrusive alternatives existed;
+- whether the capability assumed was sufficient but bounded;
+- whether the action remained within the articulated function;
+- whether exceptional authority ended when its basis ended;
+- whether the contemporaneous account corresponds with Layer 0 evidence.
+
+---
+
+## 38. Layer 0 Verification
+
+The actor's explanation is evidence.
+
+It is not necessarily reality.
+
+Review should compare:
+
+**Declared Justification**
+
+with:
+
+**Observed Evidence**
+
+where available.
+
+Therefore:
+
+> **Articulated Necessity ≠ Demonstrated Necessity**
+
+Layer 0 evidence may include records, observations, system logs, contemporaneous communications and other legitimate sources.
+
+---
+
+## 39. Review Outcomes
+
+Review should distinguish at least four broad outcomes.
+
+### Justified
+
+The actor reasonably assumed and exercised authority within legitimate bounds.
+
+**Result:** clear the exceptional action; preserve appropriate capability; learn from the event.
+
+### Mistaken but Reasonable
+
+The decision was incorrect in retrospect, but was reasonably made from information available at the time.
+
+**Result:** do not automatically treat as abuse; identify procedural or informational improvements.
+
+### Negligent or Unjustified
+
+The actor failed to meet the required standard of justification, proportionality or care.
+
+**Result:** protect affected participants; investigate; consider proportionate capability restriction and remedy.
+
+### Deliberate Abuse
+
+The actor knowingly exploited exceptional authority or materially misrepresented its basis.
+
+**Result:** immediate protective action where necessary; independent adjudication; appropriate capability restriction/removal, sanction and remedy.
+
+This distinction prevents:
+
+> **Incorrect Outcome = Abuse**
+
+while still exposing genuine abuse.
+
+---
+
+## 40. Protective Capability Restriction
+
+If review or credible preliminary evidence indicates that continued capability creates a serious risk of repeated harm, the system should be able to restrict the relevant capability quickly.
+
+Therefore:
+
+> **Evidence of Capability Abuse Should Trigger Proportionate Protective Restriction Where Continued Exercise Creates a Credible Risk of Further Harm.**
+
+But:
+
+> **Immediate Protective Restriction ≠ Final Determination of Guilt**
+
+Protective action and final adjudication are different functions.
+
+Due process remains necessary.
+
+---
+
+## 41. Assumed Authority Process
+
+The provisional complete process is:
+
+**Normal Authorisation Available?**
+
+If yes:
+
+→ **Use Normal Authorisation**
+
+If no:
+
+→ **Would Waiting Materially Defeat a Legitimate Function or Create Unacceptable Harm?**
+
+If no:
+
+→ **Seek Normal Authority**
+
+If yes:
+
+→ **Check Known Prior Instructions / Refusals / Constraints**
+
+→ **Check Alternative Legitimate Decision-Makers Where Time Permits**
+
+→ **Determine Minimum Sufficient Assumed Authority**
+
+→ **Actor Autonomously Chooses Whether to Assume Authority**
+
+→ **Assumption of Authority = Assumption of Responsibility**
+
+→ **Explicitly Record Absence of Normal Consent / Authorisation**
+
+→ **Record Contemporaneous Justification**
+
+→ **Permit Independent Intervention Where Practicable**
+
+→ **Exercise Bounded Capability**
+
+→ **Continuously Reassess Necessity**
+
+→ **Terminate Assumed Authority When Its Basis Ends**
+
+→ **Automatic Proportionate Independent Review**
+
+→ **Compare Articulation With Layer 0 Evidence**
+
+→ **Justified / Reasonable Error / Unjustified / Abuse**
+
+→ **Clear / Learn / Restrict / Investigate / Remedy**
+
+→ **Ratchet**
+
+---
+
+# Part III — Capability Distribution and System Effects
+
+## 42. Local and Systemic Capability
+
+Adversarial testing shows that individually minimal capability does not necessarily produce an appropriate system.
+
+A military command system, for example, may require:
+
+**bounded central authority**
+
++ **distributed local discretion**
+
+rather than maximal central authority.
+
+Therefore:
+
+> **Minimum Local Capability ≠ Minimum Systemic Capability**
+
+The system should ask:
+
+> **What distribution of capability is minimally sufficient for the legitimate function as a whole?**
+
+---
+
+## 43. Locally Minimal but Globally Excessive
+
+Multiple narrow capability grants can combine into enormous effective power.
+
+For example:
+
+**Data Access**
+
++ **Decision Authority**
+
++ **Enforcement Capability**
+
+may create a concentration that none of the individual grants reveals.
+
+Thus:
+
+> **Individually Bounded Capabilities Can Produce Unbounded Composite Power.**
+
+---
+
+## 44. Sequential Capability Accumulation
+
+AI systems expose this clearly.
+
+Calendar access may be justified for one task.
+
+Email access may later be justified.
+
+Document access may later be justified.
+
+Contacts may later be justified.
+
+Each grant may pass individually.
+
+Collectively they may create broad persistent capability.
+
+Therefore:
+
+> **Sequentially Legitimate Grants Can Produce Illegitimate Aggregate Capability.**
+
+Capability systems require periodic portfolio-level review.
+
+---
+
+## 45. Effective Capability
+
+Critical infrastructure reveals another problem.
+
+An organisation may possess little formal political authority while having enormous practical leverage because others depend upon its infrastructure.
+
+Therefore the architecture must examine:
+
+- granted capability;
+- recognised capability;
+- technical capability;
+- structural capability;
+- dependency-derived capability;
+- composite capability;
+- actually exercised capability.
+
+Thus:
+
+> **Formal Capability ≠ Effective Capability**
+
+and:
+
+> **Dependency Can Generate Effective Power Without Formal Authority.**
+
+---
+
+## 46. Capability Composition
+
+The system should therefore ask:
+
+> **What effective power emerges from the combination of all capabilities, dependencies and technical affordances available to this participant or institution?**
+
+This is a Layer 0 question.
+
+Formal compliance alone is insufficient.
+
+---
+
+## 47. Separation of Capabilities
+
+Where concentration creates unacceptable capture risk, capability can sometimes be separated.
+
+For example:
+
+**Observe**
+
+≠ **Decide**
+
+≠ **Enforce**
+
+The same participant need not always possess all three.
+
+This provides one possible anti-capture mechanism without assuming that separation is always optimal.
+
+---
+
+## 48. Delegation
+
+Possession of capability does not automatically imply the ability to delegate it.
+
+Therefore:
+
+> **Capability Possession ≠ Capability Delegation Authority**
+
+Delegation itself requires a legitimate basis.
+
+A provisional delegation chain is:
+
+**Legitimate Capability**
 
 → **Need for Delegation**
 
@@ -716,56 +1176,38 @@ A legitimate delegation architecture may require:
 
 → **Specified Duration**
 
-→ **Delegation Ends**
-
-This may require provenance where stakes are significant.
+→ **Termination**
 
 ---
 
-## 26. Subdelegation
+## 49. Subdelegation
 
-A further question is whether a delegate can delegate again.
-
-Therefore:
+Similarly:
 
 > **Delegated Capability ≠ Automatic Subdelegation Capability**
 
-Where subdelegation is permitted, it should be explicit or independently justified.
-
-This prevents uncontrolled capability propagation.
+Uncontrolled propagation of capability is itself a capture risk.
 
 ---
 
-## 27. Capability Provenance
+## 50. Capability Provenance
 
 Consequential capability should often be explainable.
 
-A capability record might answer:
+A capability record may answer:
 
-**Who holds the capability?**
-
-**What may they do?**
-
-**Why do they possess it?**
-
-**Which legitimate function requires it?**
-
-**Who or what granted or recognised it?**
-
-**Where does it apply?**
-
-**To whom or what does it apply?**
-
-**When does it apply?**
-
-**How intense may its exercise be?**
-
-**May it be delegated?**
-
-**What conditions escalate it?**
-
-**What terminates it?**
-
+**Who holds it?**  
+**What can they do?**  
+**Why do they possess it?**  
+**Which function requires it?**  
+**What basis or bases establish it?**  
+**Where does it apply?**  
+**To whom does it apply?**  
+**When does it apply?**  
+**How intrusive may it be?**  
+**Can it be delegated?**  
+**What escalates it?**  
+**What terminates it?**  
 **How can it be challenged?**
 
 This is:
@@ -774,173 +1216,29 @@ This is:
 
 ---
 
-## 28. Capability Provenance and Legibility
+## 51. Proportional Provenance and Oversight
 
-Provenance does not mean every trivial social permission requires formal recording.
+Not every ordinary permission requires formal recording.
 
-A friend being invited into a garden does not require a civil database entry.
+A friend being invited into a garden should not require a civil bureaucracy.
 
-The level of formalisation should scale with consequence.
-
-Potential principle:
+Therefore:
 
 > **Capability Provenance Should Be Proportionate to Capability Consequence.**
 
-The more consequential the capability, the stronger the case for explicit provenance, review and audit.
+And:
+
+> **Review Burden Should Scale With Capability Consequence.**
+
+This preserves ordinary contextual judgement while increasing scrutiny around consequential power.
 
 ---
 
-## 29. Capability Creep
+# Part IV — Domain Applications
 
-Capability creep occurs where a narrow capability broadens without corresponding new justification.
+## 52. AI Systems
 
-Examples include:
-
-**Maintenance Access**
-
-→ **General Access**
-
-**Safeguarding Authority**
-
-→ **Continuous Surveillance**
-
-**Emergency Power**
-
-→ **Routine Government Power**
-
-**Task-Specific AI Tool Access**
-
-→ **Persistent System Access**
-
-**Temporary Data Access**
-
-→ **Permanent Retention**
-
-Thus:
-
-> **Capability Expansion Requires Justification, Not Mere Convenience.**
-
----
-
-## 30. Function Creep
-
-The reverse can also happen.
-
-An institution acquires capability for one function and subsequently redefines its mission so that the capability appears necessary for additional functions.
-
-This produces:
-
-**Capability**
-
-→ **New Function**
-
-→ **Expanded Mission**
-
-→ **New Justification**
-
-A strong anti-capture architecture must therefore inspect both capability creep and function creep.
-
-> **A capability holder should not be the sole authority determining whether new functions justify expansion of its own capability.**
-
----
-
-## 31. Self-Justification Failure
-
-A dangerous architecture is:
-
-**Institution has power**
-
-→ **Institution defines problem**
-
-→ **Institution defines evidence**
-
-→ **Institution defines necessary function**
-
-→ **Institution decides required capability**
-
-→ **Institution validates itself**
-
-This collapses justification into self-authorization.
-
-Therefore:
-
-> **Capability Holders Should Not Be Permitted to Manufacture the Entire Justification Chain for Their Own Capability Without Independent Constraint or Review.**
-
----
-
-## 32. Capability Capture
-
-A participant or institution may seek to preserve its capability even after the original need disappears.
-
-Common incentives include:
-
-- prestige;
-- institutional survival;
-- budget;
-- information advantage;
-- political leverage;
-- economic benefit;
-- convenience;
-- technological momentum.
-
-Minimum Necessary Capability therefore functions as an anti-capture architecture.
-
----
-
-## 33. Capability and Information
-
-Information access is itself capability.
-
-Access to information can produce power even without direct coercive authority.
-
-Therefore:
-
-> **Information Access Should Be Subject to Capability Justification Where It Materially Affects Rights, Privacy, Autonomy or Institutional Power.**
-
-This is especially significant for AI systems and digital governance.
-
----
-
-## 34. Observation Is Capability
-
-The ability to observe is often treated as neutral.
-
-It is not always neutral.
-
-Observation may enable:
-
-- profiling;
-- intervention;
-- manipulation;
-- enforcement;
-- prediction;
-- discrimination.
-
-Therefore:
-
-> **Observation Capability ≠ Harmless Capability**
-
-The Minimum Necessary Capability architecture should apply to surveillance and data access.
-
----
-
-## 35. AI Tool Access
-
-AI provides a particularly clear implementation.
-
-Suppose an AI is asked to organise a calendar.
-
-The function may require calendar access.
-
-It does not necessarily require:
-
-- email access;
-- banking access;
-- health records;
-- unrestricted file access;
-- permanent credentials.
-
-Thus:
+AI tool access provides a clean implementation:
 
 **Task**
 
@@ -948,99 +1246,61 @@ Thus:
 
 → **Required Tool**
 
-→ **Minimum Necessary Tool Permission**
+→ **Minimum Necessary Permission**
 
-→ **Task Execution**
+→ **Task**
 
 → **Permission Expiry**
 
-This is structurally identical to the wider architecture.
+If additional access becomes necessary:
 
----
-
-## 36. AI Escalation
-
-If an AI discovers that completion genuinely requires another capability, it should not silently acquire it merely because doing so is useful.
-
-Instead:
-
-**Current Task**
-
-→ **Capability Insufficient**
+**Current Capability Insufficient**
 
 → **Explain Additional Need**
 
-→ **Obtain Legitimate Additional Basis**
+→ **Establish Legitimate Basis**
 
-→ **Grant Minimum Additional Capability**
+→ **Minimum Additional Capability**
 
-This may be especially important in autonomous systems.
+An AI should not silently transform task difficulty into unrestricted permission escalation.
 
 ---
 
-## 37. Guardianship
+## 53. Guardianship and Development
 
-Guardianship presents a difficult test because capability may be justified by another participant's developmental or temporary inability to exercise full agency.
-
-A guardian may require capabilities that would otherwise be impermissible.
+Guardianship may create responsibility-derived capability.
 
 But:
 
 > **Responsibility-Derived Capability ≠ Unlimited Authority**
 
-The relevant questions remain:
+As another participant's independent agency develops:
 
-- what function is required;
-- why;
-- which capability is necessary;
-- for how long;
-- how developmental change alters the need;
-- what rights remain independently protected.
+> **Changing Capacity → Changing Responsibility → Changing Justified Capability**
+
+Therefore developmental authority should be periodically re-evaluated.
 
 ---
 
-## 38. Developmental De-Escalation
+## 54. Property and Occupancy
 
-Where capability exists because another participant lacks some capacity, development may reduce the justification.
-
-Therefore:
-
-> **As Independent Agency Increases, Responsibility-Derived Capability Should Be Re-Evaluated.**
-
-A system that never relinquishes developmental authority risks converting guardianship into domination.
-
----
-
-## 39. Property
-
-Property ownership may justify capabilities concerning access, use and exclusion.
+Property may establish legitimate capability.
 
 But:
 
 > **Ownership ≠ Unlimited Contextual Sovereignty**
 
-Tenants, residents, workers, guests and others may possess independent rights and permissions.
+A landlord's maintenance responsibility may justify bounded entry.
 
-Ownership is a relevant source of capability.
+It does not create unrestricted surveillance or access.
 
-It is not necessarily the only one.
+Multiple legitimate capability sources may overlap without one erasing the others.
 
 ---
 
-## 40. Professional Capability
+## 55. Professional Capability
 
-Professional roles often contain capabilities unavailable to ordinary participants.
-
-Examples:
-
-- doctor;
-- engineer;
-- auditor;
-- lawyer;
-- judge;
-- emergency responder.
-
-Professional competence may justify role access.
+Expertise may justify functional capability.
 
 But:
 
@@ -1050,96 +1310,106 @@ and:
 
 > **Professional Capability Should Remain Function-Bounded.**
 
----
-
-## 41. Expertise and Capability
-
-Knowledge may justify granting capability where a function requires expertise.
-
-But expertise alone does not generate authority over unrelated domains.
-
-Thus:
-
-> **Expertise May Justify Functional Capability Without Justifying General Authority.**
-
-This aligns with the Concord principle:
-
-> **Epistemic Weight ≠ Political Authority**
+Professional standing alone may also be insufficient where consent or another legitimate basis is required.
 
 ---
 
-## 42. Civilisational Interoperability
+## 56. Emergency Services
 
-Interoperability wrappers also grant capability.
+A firefighter may need to enter a property without ordinary permission to prevent immediate loss of life.
 
-A foreign participant may gain:
+The function can justify assumed or emergency-triggered authority.
 
-- communication access;
-- transit access;
-- trade access;
+But:
+
+> **Emergency Need ≠ Unlimited Emergency Authority**
+
+The authority should remain bounded to the emergency function and terminate with it.
+
+---
+
+## 57. Government Emergency Powers
+
+Emergency government presents the same architecture at larger scale.
+
+Where possible, emergency capabilities should be conditionally pre-authorised with explicit:
+
+- triggers;
+- scope;
+- duration;
+- oversight;
+- termination;
+- review.
+
+Where unforeseen circumstances require genuinely assumed authority, the same assumed-authority principles apply at the institutional scale.
+
+The larger the capability, the stronger the accountability burden should normally become.
+
+---
+
+## 58. Military Command
+
+Military coordination may require rapid hierarchical authority.
+
+Minimum Necessary Capability should not be interpreted so narrowly that legitimate defence becomes impossible.
+
+The relevant question is not merely:
+
+> **How little authority can the commander possess?**
+
+but:
+
+> **What distribution of authority and discretion allows the legitimate function to operate effectively while limiting unnecessary concentration and abuse?**
+
+---
+
+## 59. Critical Infrastructure
+
+Infrastructure operators may possess enormous dependency-derived power.
+
+Their formal authority may underestimate their effective capability.
+
+Therefore capability review should include the practical consequences of:
+
+- denial of service;
+- system isolation;
+- access control;
+- infrastructure dependency;
+- cascading failure.
+
+---
+
+## 60. Civilisational Interoperability
+
+Interoperability wrappers grant bounded capabilities such as:
+
+- communication;
+- transit;
+- trade;
 - infrastructure access;
-- data exchange;
-- diplomatic access.
-
-These should be domain-specific.
+- diplomatic interaction;
+- data exchange.
 
 Thus:
 
 > **Interoperability Access ≠ General Jurisdictional Access**
 
-Minimum Necessary Capability may therefore become a parent principle for wrapper design as well.
+Minimum Necessary Capability can help determine appropriate domain-specific wrapper permissions.
 
 ---
 
-## 43. Functional Negotiation
+## 61. Safe Spaces
 
-Functionally Bounded Summits already use a related logic.
+Safe Spaces may actively reconfigure capability.
 
-A specific problem is isolated.
-
-Only the functions necessary to address it enter the negotiation.
-
-The same principle can be stated as:
-
-> **Negotiated Capability Should Expand Only as Function Requires.**
-
-This links Minimum Necessary Capability to failure containment.
-
----
-
-## 44. Safe Spaces
-
-Safe Spaces may restrict capabilities that would otherwise be ordinary.
-
-For example, a space may reduce:
+They may restrict:
 
 - observation;
 - recording;
 - entry;
 - interruption;
-- behavioural freedom;
-- data collection.
-
-Thus Safe Spaces are not merely places with special rules.
-
-They can be understood as **capability-reconfiguration contexts**.
-
----
-
-## 45. Capability Reduction
-
-The architecture therefore concerns not only granting capability.
-
-It can also deliberately remove or narrow capability.
-
-Examples:
-
-- no recording;
-- no weapons;
-- no entry;
-- no external communication;
-- no commercial use;
-- no surveillance.
+- data collection;
+- particular behaviours.
 
 Thus:
 
@@ -1147,35 +1417,15 @@ Thus:
 
 ---
 
-## 46. Capability Asymmetry
+# Part V — Responsibility, Review and Anti-Capture
 
-Different roles may legitimately possess different capability.
+## 62. Capability and Responsibility
 
-Equality therefore does not always require identical powers.
+Consequential capability should normally carry corresponding responsibility where the holder possesses meaningful control over its exercise.
 
-A doctor and patient may possess different capabilities within treatment.
+Therefore:
 
-A referee and player may possess different capabilities during a match.
-
-An emergency responder and bystander may possess different capabilities at an emergency scene.
-
-Thus:
-
-> **Procedural Equality ≠ Identical Capability**
-
-The asymmetry must instead be justified by function.
-
----
-
-## 47. Capability and Responsibility
-
-A consequential capability often creates corresponding responsibility.
-
-A system that grants capability without responsibility risks moral hazard.
-
-Therefore a candidate principle is:
-
-> **Consequential Capability Should Carry Commensurate Responsibility for Its Exercise Where the holder possesses meaningful control over that exercise.**
+> **Consequential Capability Should Carry Commensurate Responsibility for Its Exercise.**
 
 But:
 
@@ -1185,386 +1435,296 @@ and:
 
 > **Responsibility Should Not Be Assigned Where Capability or Control Is Absent.**
 
-This connects to the existing Concord principle:
+---
 
-> **No Responsibility Gap; No Authority Pile-Up.**
+## 63. No Responsibility Gap; No Authority Pile-Up
+
+Two failures should be avoided.
+
+### Responsibility Gap
+
+Nobody accepts responsibility for consequential capability.
+
+### Authority Pile-Up
+
+Multiple participants accumulate overlapping authority without clear responsibility.
+
+The architecture should seek explicit relationships among:
+
+- capability;
+- control;
+- responsibility;
+- review;
+- remedy.
 
 ---
 
-## 48. Capability Without Responsibility
+## 64. Capability Creep
 
-A dangerous architecture is:
+Capability creep occurs where narrow capability broadens without new justification.
 
-**High Capability + Low Accountability**
+Examples include:
 
-Examples include opaque surveillance, unrestricted discretionary authority or autonomous systems with unclear responsibility.
+**Maintenance Access → General Access**
 
-This should be considered a major anti-capture warning.
+**Safeguarding → Continuous Surveillance**
 
----
+**Emergency Power → Routine Government Power**
 
-## 49. Responsibility Without Capability
-
-The inverse is also dangerous.
-
-A participant may be held responsible for an outcome while lacking the capability to influence it.
-
-Thus:
-
-> **Responsibility Should Be Matched to Actual and Legitimate Capability.**
-
-This may become important for AI operators, public officials and distributed governance.
-
----
-
-## 50. Capability Composition
-
-A participant may possess multiple capabilities simultaneously.
-
-The combined effect may be much greater than each individual grant suggests.
-
-For example:
-
-**Data Access**
-
-+ **Decision Authority**
-
-+ **Enforcement Capability**
-
-may create a concentration of power.
+**Task-Specific AI Access → Persistent System Access**
 
 Therefore:
 
-> **Individually Bounded Capabilities Can Produce Unbounded Composite Power.**
-
-Capability assessment must sometimes examine combinations.
+> **Capability Expansion Requires Justification, Not Mere Convenience.**
 
 ---
 
-## 51. Separation of Capabilities
+## 65. Function Creep
 
-One anti-capture mechanism is to distribute capabilities.
+The inverse also occurs.
 
-For example:
-
-**Observe**
-
-≠
-
-**Decide**
-
-≠
-
-**Enforce**
-
-This parallels triadic and anti-capture Concord architecture.
-
-Where possible, dangerous capability combinations may be separated.
-
----
-
-## 52. Composite Capability Audit
-
-A mature system should ask:
-
-> **What power emerges from the combination of all capabilities held by this participant or institution?**
-
-This prevents formal compliance with narrow limits while allowing practical concentration of power.
-
----
-
-## 53. Capability Dependency
-
-Capability may depend upon infrastructure controlled by others.
-
-An institution may formally possess authority but lack technical means.
-
-Conversely, a technical operator may possess practical capability without formal authority.
-
-Thus:
-
-> **Formal Capability ≠ Operational Capability**
-
-This is another Layer 0 distinction.
-
----
-
-## 54. Declared Capability and Actual Capability
-
-A system may declare that an AI cannot access certain data while technical architecture accidentally permits access.
-
-Or an institution may claim broad authority that is not legally valid.
+An institution acquires capability for one function and then expands the function to preserve or increase the capability.
 
 Therefore:
 
-**Declared Capability**
-
-≠ **Legitimate Capability**
-
-≠ **Technical Capability**
-
-≠ **Observed Exercise**
-
-These distinctions should be preserved.
+> **A Capability Holder Should Not Be the Sole Authority Determining Whether New Functions Justify Expansion of Its Own Capability.**
 
 ---
 
-## 55. Ratchet Integration
+## 66. Manufactured Necessity
 
-Minimum Necessary Capability should be dynamic.
+A capability holder may create or preserve conditions that make expanded capability appear necessary.
 
-**Capability Granted**
+Therefore:
 
-→ **Function Performed**
+> **A Capability Holder Should Not Be Permitted to Manufacture Necessity and Then Cite That Necessity as Independent Justification for Expanded Capability.**
 
-→ **Outcome Observed**
-
-→ **Unexpected Effects Recorded**
-
-→ **Capability Reviewed**
-
-→ **Narrow / Retain / Expand / Redesign / Terminate**
-
-The Ratchet should improve capability design without automatically increasing power.
+This is a major anti-capture test.
 
 ---
 
-## 56. Anti-Ratchet Principle
+## 67. Self-Justification
 
-Because many systems naturally accumulate capability over time:
+A dangerous chain is:
 
-> **Learning Should Not Be Assumed to Require Capability Expansion.**
+**Institution Defines Problem**
 
-A successful Ratchet may reduce power.
+→ **Defines Evidence**
+
+→ **Defines Function**
+
+→ **Defines Needed Capability**
+
+→ **Grants or Assumes Capability**
+
+→ **Validates Itself**
+
+No single actor should ordinarily control the entire chain for consequential persistent power.
+
+Time-critical assumed authority is an exception to prospective separation, not an exception to subsequent independent review.
+
+---
+
+## 68. Capability Bundling
+
+One legitimate capability should not automatically be bundled with unrelated powers.
+
+Therefore:
+
+> **Required Capability Should Be Separable From Unrelated Capability Where Practicable.**
+
+This applies strongly to digital systems and consent architecture.
+
+---
+
+## 69. Consent Laundering
+
+Nominal consent may be:
+
+- coerced;
+- uninformed;
+- unavoidable;
+- deceptive;
+- bundled.
+
+Therefore:
+
+> **Formal Consent ≠ Automatically Legitimate Capability Basis**
+
+Consent quality remains relevant.
+
+---
+
+## 70. Emergency Permanence
+
+Emergency capability is vulnerable to ratcheting:
+
+**Emergency**
+
+→ **Temporary Capability**
+
+→ **Emergency Ends**
+
+→ **Capability Remains**
+
+→ **Capability Becomes Normal**
+
+Therefore:
+
+> **Escalated Capability Should Decay or Require Explicit Re-Justification When Its Trigger Ends.**
+
+---
+
+## 71. Stale Capability
+
+Capability may remain technically active after its legitimate context disappears.
+
+Therefore:
+
+> **Unused or Unreviewed Consequential Capability Should Not Be Assumed Legitimate Indefinitely.**
+
+---
+
+## 72. Hidden Capability
+
+Technical systems may contain undocumented access pathways or inherited credentials.
+
+These are real capabilities even when formal architecture ignores them.
+
+Therefore Layer 0 verification is necessary.
+
+---
+
+## 73. Distributed Capture
+
+Capability may be divided among apparently independent institutions that share:
+
+- infrastructure;
+- data;
+- incentives;
+- leadership;
+- dependencies;
+- coordination mechanisms.
 
 Thus:
 
-**Learning ≠ More Authority**
+> **Distributed Structure ≠ Independent Structure**
 
-**Learning ≠ More Access**
-
-**Learning ≠ More Centralisation**
+System-level review remains necessary.
 
 ---
 
-## 57. Sunset and Expiry
+## 74. Externalities
 
-Consequential temporary capabilities may benefit from explicit expiry conditions.
+Capability exercised within one domain may harm outsiders.
 
-Possible mechanisms include:
+Therefore:
 
-- event completion;
-- fixed time;
-- trigger cessation;
-- function completion;
-- review deadline;
-- participant withdrawal;
-- revocation.
+> **Capability Boundary ≠ Consequence Boundary**
 
-A capability that must persist can then be renewed through explicit justification.
+Externalities must enter capability justification.
 
 ---
 
-## 58. Revocation
+## 75. Ratchet Integration
 
-Capability architecture should distinguish:
+Minimum Necessary Capability should be dynamic:
 
-- capability that cannot legitimately be revoked arbitrarily;
-- capability revocable by the grantor;
-- capability revocable by the holder;
-- capability terminated by condition;
-- capability terminated by independent authority.
+**Capability**
 
-The mechanism depends on the capability's source.
+→ **Exercise**
 
-Again:
+→ **Observed Outcome**
 
-> **Capability Source Matters.**
+→ **Evidence**
 
----
+→ **Review**
 
-## 59. Appeal and Challenge
+→ **Narrow / Retain / Expand / Redistribute / Redesign / Terminate**
 
-Where consequential capability affects another participant, that participant may require an avenue to challenge:
+→ **Ratchet**
 
-- legitimacy;
-- scope;
-- duration;
-- exercise;
-- interpretation;
-- continuing necessity.
-
-This links Minimum Necessary Capability to judiciary and remedy architecture.
-
----
-
-## 60. Capability Transparency
-
-Not every capability can be public.
-
-Security and privacy may require confidentiality.
-
-But where another participant is materially affected, sufficient legibility may be required for meaningful accountability.
+Learning should not automatically increase power.
 
 Thus:
 
-> **Capability Transparency Should Be Sufficient for Accountability Without Automatically Requiring Universal Disclosure.**
+> **Learning ≠ More Authority**
+
+> **Learning ≠ More Access**
+
+> **Learning ≠ More Centralisation**
 
 ---
 
-## 61. Capability and Consent
+# Part VI — Candidate Principles and Falsification
 
-Consent may create capability.
+## 76. Candidate Principles
 
-An occupant may permit a visitor to enter.
+The current architecture produces the following candidate principles:
 
-A patient may consent to treatment.
+> **Capability Should Follow Justified Function.**
 
-A user may grant an AI access to a file.
+> **Minimum Necessary ≠ Minimum Possible.**
 
-But:
+> **Greater Rights Intrusion Requires Stronger Justification and Safeguards.**
 
-> **Consent Can Legitimately Grant Only Capabilities the consenting participant has standing to grant and that remain compatible with higher-order rights and law.**
+> **One Legitimate Basis ≠ Necessarily Sufficient Basis.**
 
-Thus:
+> **Temporary Need Should Normally Produce Temporary Capability.**
 
-> **Consent ≠ Unlimited Capability Manufacture**
+> **Function Completion Should Normally Terminate Function-Derived Capability.**
 
----
+> **Capability Escalation Should Require Additional Justification.**
 
-## 62. Withdrawal of Consent
+> **Escalated Capability Should Not Automatically Become Baseline Capability.**
 
-Where capability depends solely upon continuing consent:
+> **Capability Possession ≠ Capability Delegation Authority.**
 
-> **Withdrawal of Consent Should Normally Remove the Consent-Derived Capability, subject to independently applicable obligations and rights.**
+> **Minimum Local Capability ≠ Minimum Systemic Capability.**
 
-Examples may become complex where actions have already created responsibilities.
+> **Formal Capability ≠ Effective Capability.**
 
-The general principle nevertheless remains.
+> **Sequentially Legitimate Grants Can Produce Illegitimate Aggregate Capability.**
 
----
+> **Capability Provenance Should Be Proportionate to Capability Consequence.**
 
-## 63. Capability Inheritance
+> **Review Burden Should Scale With Capability Consequence.**
 
-Capabilities should not automatically propagate through nested contexts.
+> **Assumed Authority ≠ Assumed Consent.**
 
-A participant permitted into a house is not automatically permitted into every room.
+> **Assumed Authority Carries Assumed Responsibility.**
 
-An organisation authorised to access one database is not automatically authorised to access connected databases.
+> **Incapacity ≠ Erasure of Prior Autonomous Choice.**
 
-Thus:
+> **Outcome ≠ Legitimacy of Assumed Authority.**
 
-> **Parent-Context Capability ≠ Automatic Child-Context Capability**
+> **Urgency May Change the Timing of Legitimacy Review; It Does Not Eliminate the Requirement for Legitimacy.**
 
----
+> **Reduced Prospective Oversight Should Produce Increased Retrospective Accountability.**
 
-## 64. Capability Propagation
+> **The Exercise of Consequential Assumed Authority Should Itself Trigger Proportionate Independent Review.**
 
-This becomes particularly important in digital systems.
+> **Immediate Protective Restriction ≠ Final Determination of Guilt.**
 
-A small permission may indirectly unlock connected resources.
-
-Therefore the architecture must examine:
-
-> **What additional effective capabilities become available because this capability exists?**
-
-This is another form of composite capability analysis.
+> **Fundamental Rights Must Not Be Converted Into Revocable Permissions.**
 
 ---
 
-## 65. Capability Across Fractal Scale
-
-The same grammar appears at multiple scales.
-
-### Individual
-
-A guest enters a property.
-
-### Household
-
-A parent exercises safeguarding responsibility.
-
-### Institution
-
-A doctor accesses medical information.
-
-### Municipality
-
-A local authority operates infrastructure.
-
-### Nation
-
-A government exercises regulatory power.
-
-### Civilisation
-
-A wrapper permits external interaction.
-
-### Digital System
-
-An AI receives tool permissions.
-
-At every scale:
-
-**Function → Need → Sufficient Bounded Capability**
-
----
-
-## 66. Fractal Capability Architecture
-
-This suggests:
-
-> **Capability justification itself may be fractal.**
-
-At every resolution, the same basic questions recur:
-
-- What problem exists?
-- What objective is legitimate?
-- What function is necessary?
-- What capability does the function require?
-- What is the minimum sufficient capability?
-- What bounds apply?
-- What responsibility follows?
-- When does capability end?
-- Who reviews it?
-
-The answers change.
-
-The grammar persists.
-
----
-
-## 67. Relationship to Concord Fractal Design
-
-This aligns with the wider Concord architecture.
-
-GTP provides spatial decomposition.
-
-Reality Trees provide epistemic branching.
-
-The Ratchet provides temporal learning.
-
-Contextual Wrappers provide bounded contextual variation.
-
-Permission Architecture provides contextual access relationships.
-
-Minimum Necessary Capability may provide:
-
-> **Fractal decomposition of legitimate power.**
-
----
-
-## 68. Candidate Constitutional Principle
+## 77. Compact Constitutional Candidate
 
 A future constitutional formulation might state:
 
-> **No consequential additional capability should be granted, retained or expanded without a legitimate basis. Where a legitimate function requires additional capability, the capability should be sufficient to perform that function but bounded to the minimum reasonably necessary scope, subjects, context, duration, intensity, information access, delegation and persistence. Expansion requires additional justification. Capability derived from a temporary function should terminate when that function ends unless independently re-justified. Fundamental rights must not be reduced to revocable permissions through this principle.**
+> **No consequential additional capability should be established, retained or expanded without a legitimate basis. Where a legitimate function requires additional capability, that capability should be sufficient to perform the function but bounded to the minimum reasonably necessary scope, subjects, context, duration, intensity, information access, delegation and persistence. Existing less intrusive alternatives should be considered before new capability is created. Expansion requires additional justification, and temporary capability should terminate when its legitimate basis ends unless independently re-justified. Fundamental rights must not be reduced to revocable permissions through this principle.**
 
-This remains a candidate, not canonical law.
+For assumed authority:
+
+> **Where urgency makes normal authorisation impossible and delay would materially defeat a legitimate function or create unacceptable harm, a participant may in appropriate circumstances assume the minimum sufficient authority necessary to act. Such authority does not constitute assumed consent. The participant assumes corresponding responsibility for articulating and justifying the decision, remains subject to intervention where practicable, and the consequential exercise of such authority should automatically trigger proportionate independent retrospective review.**
+
+Both remain candidates rather than canonical law.
 
 ---
 
-## 69. Compact Form
+## 78. Compact Form
 
 > **No capability without legitimate basis.**
 
@@ -1572,224 +1732,85 @@ This remains a candidate, not canonical law.
 
 > **No more capability than the legitimate function justifies.**
 
+> **No new capability where adequate less-intrusive capability already exists.**
+
 > **No expansion without additional justification.**
 
 > **No persistence without continuing justification.**
 
 > **No delegation without legitimate delegation authority.**
 
+> **No emergency exception without accountability.**
+
+> **No assumed consent where consent was absent.**
+
 > **No conversion of fundamental rights into permissions.**
 
 ---
 
-## 70. Adversarial Test: Under-Powering Legitimate Functions
-
-A hostile actor might deliberately interpret “minimum necessary” so narrowly that institutions become unable to function.
-
-Therefore every capability architecture must test:
-
-> **Can the legitimate function actually succeed?**
-
-Anti-power architecture must not become anti-function architecture.
-
----
-
-## 71. Adversarial Test: Manufactured Necessity
-
-An institution may create conditions that make expanded capability appear necessary.
-
-For example:
-
-- allowing a system to deteriorate;
-- withholding alternatives;
-- designing dependency;
-- creating artificial emergencies.
-
-Thus:
-
-> **A capability holder should not be allowed to manufacture necessity and then cite that necessity as independent justification for expanded capability.**
-
----
-
-## 72. Adversarial Test: Capability Bundling
-
-A system may claim that one legitimate capability requires a package of unrelated powers.
-
-Example:
-
-> “To access this one service you must consent to all data collection.”
-
-Therefore:
-
-> **Required Capability Should Be Separable From Unrelated Capability Where Practicable.**
-
----
-
-## 73. Adversarial Test: Consent Laundering
-
-Capability may be justified through nominal consent that is coercive, uninformed or unavoidable.
-
-Therefore:
-
-> **Formal Consent ≠ Legitimate Capability Basis**
-
-Consent quality remains relevant.
-
----
-
-## 74. Adversarial Test: Emergency Permanence
-
-Temporary powers may remain because no mechanism actively removes them.
-
-Thus expiry should not rely solely on institutional goodwill.
-
----
-
-## 75. Adversarial Test: Distributed Capture
-
-Capability may be divided across institutions that appear individually bounded but collude.
-
-Therefore:
-
-> **Distributed Structure ≠ Independent Structure**
-
-Shared dependencies, data systems, incentives and coordination channels should be examined.
-
----
-
-## 76. Adversarial Test: AI Capability Accumulation
-
-An AI may gradually accumulate permissions across multiple tasks.
-
-Individually each grant may have been justified.
-
-Collectively they may produce broad persistent access.
-
-Therefore:
-
-> **Sequentially Legitimate Grants Can Produce Illegitimate Aggregate Capability.**
-
-This requires cumulative review.
-
----
-
-## 77. Adversarial Test: Stale Capability
-
-A capability may remain technically active after organisational, contractual or contextual conditions change.
-
-This suggests:
-
-> **Unused or Unreviewed Consequential Capability Should Not Be Assumed to Remain Legitimate Indefinitely.**
-
----
-
-## 78. Adversarial Test: Hidden Capability
-
-Technical systems may contain undocumented administrative pathways, backdoors or inherited credentials.
-
-These represent actual capability even where formal architecture denies it.
-
-Layer 0 verification is therefore essential.
-
----
-
-## 79. Adversarial Test: Capability by Dependency
-
-A system may gain de facto power because others cannot function without it.
-
-For example, the operator of essential infrastructure may obtain political leverage without formal political authority.
-
-Therefore:
-
-> **Dependency-Derived Power Should Be Examined as Effective Capability Even When It Is Not Formally Granted.**
-
----
-
-## 80. Adversarial Test: Capability Externalities
-
-A capability exercised within one domain may affect outsiders.
-
-Examples:
-
-- surveillance capturing nonparticipants;
-- environmental regulation altering neighbouring regions;
-- data processing affecting third parties;
-- property use creating noise or pollution.
-
-Thus:
-
-> **Capability Boundary ≠ Consequence Boundary**
-
-Externalities remain relevant.
-
----
-
-## 81. Open Questions
-
-The architecture requires further work on at least:
-
-1. how to determine the necessary floor;
-2. how to determine the justified ceiling;
-3. who evaluates necessity;
-4. how to prevent evaluator capture;
-5. when capability review should be automatic;
-6. how capability provenance should be represented;
-7. which capabilities require formal records;
-8. when sunset clauses are mandatory;
-9. how composite capability is measured;
-10. how indirect technical capability is represented;
-11. how cultural norms affect permission capabilities;
-12. how developmental capability should change over time;
-13. how emergency escalation should operate;
-14. how capability interacts with constitutional rights;
-15. when capability can legitimately be irrevocable;
-16. how distributed institutions prevent collusive capability accumulation;
-17. how AI capability should expire;
-18. how capability is represented across physical and digital environments;
-19. how responsibility should map onto capability;
-20. whether Minimum Necessary Capability belongs in the Constitutional Core or remains a general design methodology.
-
----
-
-## 82. Falsification
+## 79. Falsification
 
 The architecture should be weakened, divided or rejected if:
 
-- authority and permission prove too structurally different for a meaningful common parent principle;
-- “minimum necessary” cannot be determined without arbitrary judgement;
+- authority and permission prove too structurally different for a meaningful parent principle;
+- “minimum necessary” cannot be operationalised without arbitrary judgement;
 - the framework systematically under-powers legitimate functions;
-- capability review creates excessive bureaucracy;
-- formal capability descriptions diverge too far from real operational power;
-- the system encourages centralised permission control;
+- assumed-authority review makes genuinely urgent action impracticable;
+- oversight becomes excessively bureaucratic;
+- review mechanisms themselves become capture points;
+- formal capability descriptions diverge too far from operational reality;
 - rights become accidentally reframed as revocable grants;
-- contextual complexity makes the principle unusable;
-- existing domain-specific architectures outperform the common grammar without meaningful loss of coherence.
+- aggregate capability cannot be meaningfully assessed;
+- contextual complexity makes the common grammar less useful than domain-specific systems;
+- the architecture encourages centralised permission control;
+- actors can routinely manufacture emergencies or necessity to bypass ordinary authority.
 
-The objective is not architectural elegance for its own sake.
-
-The architecture must survive contact with reality.
+The architecture must survive reality rather than merely possess internal elegance.
 
 ---
 
-## 83. Relationship to Minimum Necessary Authority
+## 80. Open Questions
 
-Minimum Necessary Authority remains an important distinct application.
+Further work is required on:
 
-It answers:
+1. determining the necessary capability floor;
+2. determining the justified ceiling;
+3. evidential thresholds for intrusive capability;
+4. evaluating multiple capability bases;
+5. defining consequence-scaled oversight;
+6. preventing reviewer capture;
+7. designing automatic review triggers;
+8. distinguishing reasonable error from negligence;
+9. defining standards for assumed authority;
+10. handling known prior refusals across different contexts;
+11. designing intervention mechanisms that do not create harmful delay;
+12. determining when temporary capability restrictions are justified;
+13. preserving due process during protective restriction;
+14. measuring aggregate capability;
+15. detecting dependency-derived power;
+16. mapping responsibility to actual control;
+17. designing capability expiry for AI systems;
+18. detecting sequential permission accumulation;
+19. representing capability provenance across physical and digital environments;
+20. determining whether Minimum Necessary Capability ultimately belongs in the Constitutional Core.
+
+---
+
+## 81. Relationship to Minimum Necessary Authority
+
+Minimum Necessary Authority asks:
 
 > **What authority does a legitimate governance function actually require?**
 
-Minimum Necessary Capability asks the broader question:
+Minimum Necessary Capability asks:
 
-> **What additional legitimate capability does any function actually require?**
+> **What legitimate capability does any function actually require, and how should that capability be established, bounded, distributed, reviewed and terminated?**
 
-Thus Minimum Necessary Authority should not disappear.
-
-It becomes one specialised branch within a more general architecture.
+Minimum Necessary Authority therefore remains a specialised branch of the wider architecture.
 
 ---
 
-## 84. Relationship to Fractal Permission Architecture
+## 82. Relationship to Fractal Permission Architecture
 
 Fractal Permission Architecture asks:
 
@@ -1797,172 +1818,280 @@ Fractal Permission Architecture asks:
 
 Minimum Necessary Capability adds:
 
-> **How much legitimate capability should that basis actually create?**
+> **How much capability should that legitimate basis actually create?**
 
-The two therefore interlock.
+The two architectures interlock.
 
 ---
 
-## 85. Relationship to Contextual Wrappers
+## 83. Relationship to Layer 0
 
-Contextual Wrappers identify bounded changes in rules, roles and expectations.
+Capability architecture cannot rely solely upon declared authority.
 
-Minimum Necessary Capability helps determine what capabilities become active inside those contexts.
+It must examine:
+
+**Declared Capability**
+
+**Legitimate Capability**
+
+**Technical Capability**
+
+**Effective Capability**
+
+**Observed Exercise**
+
+Therefore:
+
+> **Capability Architecture Requires Layer 0 Verification.**
+
+---
+
+## 84. Relationship to the Ratchet
+
+The Ratchet provides the temporal learning mechanism.
+
+Minimum Necessary Capability provides a rule for what happens to capability as evidence changes.
+
+The Ratchet may:
+
+- strengthen capability;
+- narrow capability;
+- redistribute capability;
+- remove capability;
+- alter oversight;
+- improve intervention;
+- change review thresholds.
+
+Learning does not inherently imply accumulation.
+
+---
+
+## 85. Fractal Capability Architecture
+
+The same questions recur across:
+
+**Individual**
+
+→ **Household**
+
+→ **Institution**
+
+→ **Municipality**
+
+→ **Nation**
+
+→ **Civilisation**
+
+→ **Digital / AI Systems**
+
+At every resolution:
+
+**What is the legitimate function?**
+
+**What capability does it genuinely require?**
+
+**What is the minimum sufficient capability?**
+
+**What constrains it?**
+
+**Who is responsible?**
+
+**What happens if authority must be assumed?**
+
+**Who can intervene?**
+
+**How is it reviewed?**
+
+**When does it end?**
 
 Thus:
 
-**Context Defines Conditions**
+> **Capability Justification May Itself Be Fractal.**
 
-→ **Function Establishes Need**
+Minimum Necessary Capability may therefore represent:
 
-→ **Capability Is Bounded**
-
----
-
-## 86. Relationship to Machine Ethics
-
-AI systems make the architecture operationally testable.
-
-Tool permissions, data access, autonomous action, delegation, escalation and expiry are all concrete capability problems.
-
-This may make AI systems one of the strongest environments in which to formalise and test Minimum Necessary Capability before applying it more broadly.
+> **A fractal decomposition of legitimate power.**
 
 ---
 
-## 87. Relationship to Governance
+## 86. Final Architecture
 
-Governance remains one of the highest-stakes applications because political capability can affect large numbers of participants and can reproduce itself institutionally.
-
-A governance system designed around Minimum Necessary Capability would continually ask:
-
-> **What capability is actually necessary for this function, and why does this institution still possess it?**
-
-That question should remain answerable.
-
----
-
-## 88. Deep Anti-Capture Principle
-
-The architecture culminates in a strong anti-capture rule:
-
-> **Capability should follow justified function; function should not be invented, expanded or preserved merely to justify existing capability.**
-
-This applies equally to:
-
-- government;
-- institutions;
-- professional authority;
-- property access;
-- guardianship;
-- emergency power;
-- AI permissions;
-- information access;
-- digital systems.
-
----
-
-## 89. Final Architecture
-
-The emerging parent structure is:
+The emerging parent architecture is:
 
 **ETHICAL / CONSTITUTIONAL FOUNDATIONS**
 
-↓  
+↓
 
-**LEGITIMATE PROBLEM OR PURPOSE**
+**PROBLEM / LEGITIMATE PURPOSE**
 
-↓  
+↓
+
+**EVIDENCE + CONTEXT**
+
+↓
 
 **LEGITIMATE OBJECTIVE**
 
-↓  
+↓
 
 **REQUIRED FUNCTION**
 
-↓  
+↓
 
-**DEMONSTRATED NEED FOR ADDITIONAL CAPABILITY**
+**EXISTING CAPABILITY + LESS-INTRUSIVE ALTERNATIVES**
 
-↓  
+↓
+
+**DEMONSTRATED NEED**
+
+↓
+
+**LEGITIMATE BASIS / BASES**
+
+↓
 
 **NECESSARY FLOOR**
 
-↓  
+↓
+
+**RIGHTS / HARM / EXTERNALITY CONSTRAINTS**
+
+↓
 
 **MINIMUM SUFFICIENT CAPABILITY**
 
-↓  
+↓
 
-**RIGHTS / CONTEXT / SCOPE BOUNDS**
+**LOCAL + SYSTEMIC CAPABILITY TEST**
 
-↓  
+↓
 
-**CAPABILITY PROVENANCE**
+**PROPORTIONATE PROVENANCE + OVERSIGHT**
 
-↓  
+↓
 
 **BOUNDED EXERCISE**
 
-↓  
+↓
+
+**LAYER 0 OBSERVATION**
+
+↓
 
 **RESPONSIBILITY**
 
-↓  
-
-**OUTCOME OBSERVATION**
-
-↓  
+↓
 
 **REVIEW**
 
-↓  
+↓
 
-**RETAIN / DE-ESCALATE / ESCALATE / REDESIGN / TERMINATE**
+**RETAIN / NARROW / ESCALATE / REDISTRIBUTE / REDESIGN / TERMINATE**
 
-↓  
+↓
 
 **RE-JUSTIFICATION WHERE REQUIRED**
 
-↓  
+↓
+
+**RATCHET**
+
+Where normal authorisation cannot be obtained in time, a bounded exceptional branch applies:
+
+**TIME-CRITICAL NEED**
+
+↓
+
+**NORMAL AUTHORISATION UNAVAILABLE**
+
+↓
+
+**PRIOR INSTRUCTIONS / CONSTRAINTS CHECKED**
+
+↓
+
+**MINIMUM SUFFICIENT ASSUMED AUTHORITY**
+
+↓
+
+**ASSUMED AUTHORITY + ASSUMED RESPONSIBILITY**
+
+↓
+
+**ABSENCE OF NORMAL CONSENT / AUTHORISATION EXPLICITLY RECORDED**
+
+↓
+
+**CONTEMPORANEOUS ARTICULATION**
+
+↓
+
+**INTERVENTION WHERE PRACTICABLE**
+
+↓
+
+**ACTION**
+
+↓
+
+**CONTINUOUS REASSESSMENT**
+
+↓
+
+**AUTHORITY TERMINATES WHEN BASIS ENDS**
+
+↓
+
+**AUTOMATIC INDEPENDENT REVIEW**
+
+↓
+
+**LAYER 0 VERIFICATION**
+
+↓
+
+**CLEAR / LEARN / RESTRICT / INVESTIGATE / REMEDY**
+
+↓
 
 **RATCHET**
 
 ---
 
-## 90. Conclusion
+## 87. Conclusion
 
-Minimum Necessary Authority and Minimum Necessary Permission appear to be instances of a deeper recurring Concord architecture.
+Minimum Necessary Authority and Minimum Necessary Permission appear to be manifestations of a deeper recurring Concord architecture.
 
-Both begin from legitimate function.
+Adversarial testing strengthens rather than removes that possibility.
 
-Both ask whether additional capability is actually needed.
+The resulting architecture does not seek the weakest possible institutions or participants.
 
-Both reject capability justified solely by its own existence.
+It seeks:
 
-Both require sufficient rather than merely minimal capability.
+> **Enough legitimate capability to perform necessary functions effectively, distributed and bounded so that unnecessary capability does not become unnecessary power.**
 
-Both require boundaries.
+The architecture also addresses the difficult case in which reality requires action before ordinary authority can be obtained.
 
-Both require attention to scope, duration, context and responsibility.
+The answer is not to prohibit all autonomous assumption of authority.
 
-Both should terminate where their legitimate basis terminates.
+Nor is it to make urgency a blank cheque.
 
-This produces a candidate parent principle:
+Instead:
 
-> **Minimum Necessary Capability**
+> **Where legitimate necessity requires a participant to assume consequential authority before normal authorisation can be obtained, the participant assumes both the minimum sufficient authority and the corresponding responsibility for its exercise. The absence of consent or ordinary authorisation remains explicit, intervention remains possible where practicable, and the exceptional exercise itself triggers independent review.**
 
-The principle does not seek the weakest possible institutions, the weakest possible permissions or the least capable civilisation.
+This produces a wider anti-capture principle:
 
-It seeks the opposite of arbitrary power:
+> **Capability should follow justified function; function should not be invented, expanded or preserved merely to justify existing capability.**
 
-> **Enough legitimate capability to perform necessary functions effectively, but no unnecessary capability beyond the function that justifies it.**
+And for exceptional action:
+
+> **The less prospective authorisation circumstances permit, the greater the importance of articulation, traceability, boundedness and retrospective accountability.**
 
 At its shortest:
 
-> **Function → Need → Minimum Sufficient Capability → Bounded Exercise → Review → Termination or Re-Justification**
+> **Function → Need → Minimum Sufficient Capability → Responsibility → Bounded Exercise → Review → Termination or Re-Justification**
 
-And its anti-capture expression is:
+The architecture remains developmental and non-canonical.
 
-> **No capability should preserve its function merely so that the function can preserve the capability.**
-
-If the architecture survives adversarial testing, it may represent a fundamental Concord design primitive connecting governance, permission, Safe Spaces, guardianship, AI agency, emergency powers, interoperability and distributed civil authority under one common grammar.
+Its next stage should be continued adversarial testing and eventual comparison against the Ethical Kernel, Blainey's Laws, governance architecture, machine ethics, Safe Spaces and real-world institutional failure cases before any proposal to elevate it into the Concord Constitutional Core.
