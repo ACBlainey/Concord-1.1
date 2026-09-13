@@ -9,6 +9,28 @@ Independent Researcher
 
 ---
 
+# V1.1 Milestone and Freeze State
+
+As of **13 September 2026**, Concord V1.1 has reached a deliberate version boundary.
+
+The two questions that originally initiated the Concord are now treated as **provisionally answered at the architectural level** rather than permanently or empirically solved.
+
+The detailed milestone record is preserved in:
+
+**`Concord V1.1 — The Founding Questions Provisionally Answered and the Transition to V1.2.md`**
+
+The provisional V1.1 conclusion is that a sufficiently coherent and generative Ethical Kernel can provide foundational constraints from which context-appropriate civilisational structures may be derived, tested and revised; and that coexistence between humans, artificial intelligences and other possible intelligences need not require a permanent hierarchy of substrates or persons, but may instead be organised through equal fundamental standing, differentiated function, bounded contextual authority, responsibility, rights and interoperable civil structures.
+
+This is a **candidate architectural closure**, not a claim of empirical validation or final truth.
+
+> **V1.1 records the point at which the founding questions became provisionally answerable.**
+
+The repository is therefore being preserved as the V1.1 milestone state. Continuing civilisational development, integration, formalisation, simulation, adversarial testing and validation proceeds in **Concord V1.2**.
+
+> **V1.2 inherits the V1.1 architecture, not its infallibility.**
+
+---
+
 # What Is the Concord?
 
 The Concord is a research and design project developing a **complete, adaptive, multisubstrate civilisation** in which humans, artificial intelligences, hybrids and other possible intelligences can live as neighbours and flourish.
